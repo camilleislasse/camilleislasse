@@ -16,6 +16,8 @@
 
 - I am also very interested by [Sylius](https://sylius.com/) (B2C ecommerce solution) and [Monofony](https://github.com/Monofony) (Sylius, but without the e-commerce part)
 
+- Member of [Opengento](https://opengento.fr) 
+
 - All of my projects are available at [guiziweb](http://guiziweb.fr)
 
 - How to reach me **guiziweb@gmail.com**
