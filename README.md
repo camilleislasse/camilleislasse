@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on e-commerce and business solutions at [Kiboko](https://kiboko.fr/)
+- I’m currently working on e-commerce and business solutions at [Kiboko](https://kiboko.fr/)
 
 - I develop essentially work on open source solutions based on Symfony, such as :
      - [OroCommerce](https://oroinc.fr/b2b-ecommerce/) (B2B ecomemrce platform)
@@ -14,11 +14,11 @@
      - and custom software based on [OroPlatform](https://oroinc.fr/oroplatform/).
 
 
-- 🌱 I am also very interested by [Sylius](https://sylius.com/) (B2C ecommerce solution) and [Monofony](https://github.com/Monofony) (Sylius, but without the e-commerce part)
+- I am also very interested by [Sylius](https://sylius.com/) (B2C ecommerce solution) and [Monofony](https://github.com/Monofony) (Sylius, but without the e-commerce part)
 
-- 👨‍💻 All of my projects are available at [guiziweb](http://guiziweb.fr)
+- All of my projects are available at [guiziweb](http://guiziweb.fr)
 
-- 📫 How to reach me **guiziweb@gmail.com**
+- How to reach me **guiziweb@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3><br>
