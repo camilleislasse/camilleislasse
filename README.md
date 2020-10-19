@@ -11,11 +11,10 @@
      - [OroCommerce](https://oroinc.fr/b2b-ecommerce/) (B2B ecommerce platform)
      - [Marello](https://www.marello.com/) (Enterprise Ressource Planning)
      - [Akeneo](https://www.akeneo.com/fr/) (Product Information Management)
-     - [ApiPlatform](https://api-platform.com/) (REST and GraphQL framework)
      - and custom software based on [OroPlatform](https://oroinc.fr/oroplatform/).
 
 
-- I am also very interested by [Sylius](https://sylius.com/) (B2C ecommerce solution) and [Monofony](https://github.com/Monofony) (Sylius, but without the e-commerce part)
+- I am also very interested by [Sylius](https://sylius.com/) (B2C ecommerce solution), [Monofony](https://github.com/Monofony) (Sylius, but without the e-commerce part) and [ApiPlatform](https://api-platform.com/) (REST and GraphQL framework)
 
 - Member of [Opengento](https://opengento.fr) 
 
