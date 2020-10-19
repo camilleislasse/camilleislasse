@@ -8,7 +8,7 @@
 - I’m currently working on e-commerce and business solutions at [Kiboko](https://kiboko.fr/)
 
 - I develop essentially work on open source solutions based on Symfony, such as :
-     - [OroCommerce](https://oroinc.fr/b2b-ecommerce/) (B2B ecomemrce platform)
+     - [OroCommerce](https://oroinc.fr/b2b-ecommerce/) (B2B ecommerce platform)
      - [Marello](https://www.marello.com/) (Enterprise Ressource Planning)
      - [Akeneo](https://www.akeneo.com/fr/) (Product Information Management)
      - and custom software based on [OroPlatform](https://oroinc.fr/oroplatform/).
