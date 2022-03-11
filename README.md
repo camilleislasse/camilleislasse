@@ -5,7 +5,7 @@
 
 
 
-- I’m currently working on e-commerce and business solutions at [Kiboko](https://kiboko.fr/)
+- I’m currently working on e-commerce and business solutions at [Arobases](https://www.arobases.fr/)
 
 - I develop essentially work on open source solutions based on Symfony, such as :
      - [OroCommerce](https://oroinc.fr/b2b-ecommerce/) (B2B ecommerce platform)
