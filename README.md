@@ -18,10 +18,6 @@
 
 - Member of [Opengento](https://opengento.fr) 
 
-- All of my projects are available at [guiziweb](http://guiziweb.fr)
-
-- How to reach me **guiziweb@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3><br>
 <p align="left">
