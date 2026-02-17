@@ -3,7 +3,6 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -15,7 +14,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
           
-          base: header, activity, community, repositories
+          base: ""
+          config_display: columns
           
           plugin_notable: yes
           plugin_notable_from: all
