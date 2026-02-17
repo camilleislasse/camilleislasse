@@ -1,21 +1,15 @@
+<div align="center">
+    <img src="./assets/terminal.gif" alt="Terminal GIF"/>
+</div>
 
-<h1>Hi, I'm Camille ISLASSE</h1>
-
-<h3>A php developer from france.</h3>
-
-
-
-- I’m currently working on e-commerce and business solutions at [ACSEO](https://www.acseo.fr/)
-
-- I develop essentially work on open source solutions based on Symfony, such as :
-     - [Sylius](https://sylius.com) (Open Source Headless eCommerce Platform)
-     - [OroCommerce](https://oroinc.fr/b2b-ecommerce/) (B2B ecommerce platform)
-     - [Marello](https://www.marello.com/) (Enterprise Ressource Planning)
-
-<h3 align="left">Connect with me:</h3><br>
-<p align="left">
-<a href="https://linkedin.com/in/camilleislasse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="camilleislasse" height="30" width="40" /></a>
-</p>
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=php,symfony,docker,postgres,mysql,git,github,gitlab,js,html,css,linux,bash,phpstorm)](https://skillicons.dev)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=camilleislasse&show_icons=true&locale=en&layout=compact" alt="camilleislasse" /></p>
+### Connect with me!
+<a href="https://www.linkedin.com/in/camilleislasse/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/camilleislasse/camilleislasse/raw/main/assets/cv-camille-islasse.pdf">
+    <img src="https://img.shields.io/badge/Curriculum%20Vitae-0072ff?style=for-the-badge&logoColor=white" alt="CV"/>
+</a>
