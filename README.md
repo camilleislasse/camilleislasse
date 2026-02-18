@@ -25,7 +25,6 @@
 - [Add sylius/mcp-server-plugin 0.2 recipe](https://github.com/symfony/recipes-contrib/pull/1930) on **symfony/recipes-contrib** (merged)
 - [ [TwigHooks] Add debug command to display hooks and hookables](https://github.com/Sylius/Stack/pull/326) on **Sylius/Stack** (open)
 - [Migrate to symfony/mcp-bundle](https://github.com/Sylius/McpServerPlugin/pull/4) on **Sylius/McpServerPlugin** (merged)
-- [[MCP Bundle] MCP oauth discovery](https://github.com/symfony/ai/pull/1338) on **symfony/ai** (closed)
 - [[AI Bundle] Fix PHPDoc type for collected platform call data](https://github.com/symfony/ai/pull/1177) on **symfony/ai** (merged)
 - [[AI Bundle] Fix profiler serialization error with unconsumed streams](https://github.com/symfony/ai/pull/1176) on **symfony/ai** (merged)
 - [[Chat] Fix MongoDB identifier context in MessageNormalizer denormalize](https://github.com/symfony/ai/pull/1145) on **symfony/ai** (merged)
@@ -33,10 +32,8 @@
 - [[Platform] Remove unused code in Vector constructor and add missing tests](https://github.com/symfony/ai/pull/1130) on **symfony/ai** (merged)
 - [[Agent] Enable remote MCP tools for agents](https://github.com/symfony/ai/pull/1129) on **symfony/ai** (open)
 - [[AI Bundle] Display tool JSON schema in profiler Platform Calls](https://github.com/symfony/ai/pull/1105) on **symfony/ai** (merged)
-- [feat: add collection_field option and restore Doctrine 2.x support ](https://github.com/acseo/TypesenseBundle/pull/145) on **acseo/TypesenseBundle** (closed)
 - [feat: add collection_field option and restore Doctrine 2.x support](https://github.com/acseo/TypesenseBundle/pull/144) on **acseo/TypesenseBundle** (merged)
 - [Update acseo_typesense.yaml](https://github.com/symfony/recipes-contrib/pull/1899) on **symfony/recipes-contrib** (merged)
-- [Fix FrankenPHP worker mode compatibility](https://github.com/modelcontextprotocol/php-sdk/pull/170) on **modelcontextprotocol/php-sdk** (closed)
 - [[Store] Add metadata filtering support to `InMemoryStore` and `CacheStore`](https://github.com/symfony/ai/pull/880) on **symfony/ai** (merged)
 - [Fix: Sanitize cache keys to avoid reserved characters validation error](https://github.com/jolicode/MediaBundle/pull/39) on **jolicode/MediaBundle** (merged)
 - [Make logger nullable in Transport constructors](https://github.com/modelcontextprotocol/php-sdk/pull/152) on **modelcontextprotocol/php-sdk** (merged)
@@ -46,8 +43,6 @@
 - [Add plugin rename script ](https://github.com/Sylius/PluginSkeleton/pull/479) on **Sylius/PluginSkeleton** (merged)
 - [Add Gemini 2.0 Flash Thinking model support](https://github.com/locus-technologies/agentic-commerce-protocol-demo/pull/5) on **locus-technologies/agentic-commerce-protocol-demo** (open)
 - [[MCP Bundle] Fix dependency injection and method-based / invokable support](https://github.com/symfony/ai/pull/757) on **symfony/ai** (merged)
-- [ fix: add missing listen() call to MCP STDIO transport](https://github.com/symfony/ai/pull/673) on **symfony/ai** (closed)
-- [[Server] Add getRegistry() method to Server class for debugging access](https://github.com/modelcontextprotocol/php-sdk/pull/75) on **modelcontextprotocol/php-sdk** (closed)
 
 ### Connect with me!
 <a href="https://www.linkedin.com/in/camilleislasse/">
