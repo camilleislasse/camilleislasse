@@ -14,8 +14,8 @@
 
 ### Recent pull requests
 {{range recentPullRequests 50}}
-{{- if ne .Repo.Name "camilleislasse/memes"}}
-- [{{.Title}}]({{.URL}}) on **{{.Repo.Name}}** ({{if eq .State "MERGED"}}merged{{else if eq .State "OPEN"}}open{{else}}closed{{end}})
+{{- if and (ne .Repo.Name "camilleislasse/memes") (ne .State "CLOSED")}}
+- [{{.Title}}]({{.URL}}) on **{{.Repo.Name}}** ({{if eq .State "MERGED"}}merged{{else}}open{{end}})
 {{- end}}
 {{- end}}
 
