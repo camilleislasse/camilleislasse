@@ -7,13 +7,13 @@
 
 ### Recent contributions
 
-- [Guiziweb/mcp-project-management](https://github.com/Guiziweb/mcp-project-management) `today`
-- [Guiziweb/guiziweb-plugins](https://github.com/Guiziweb/guiziweb-plugins) Claude Code plugins for Sylius development `5 days ago`
+- [Guiziweb/mcp-project-management](https://github.com/Guiziweb/mcp-project-management) `1 day ago`
+- [Guiziweb/guiziweb-plugins](https://github.com/Guiziweb/guiziweb-plugins) Claude Code plugins for Sylius development `6 days ago`
 - [Sylius/McpServerPlugin](https://github.com/Sylius/McpServerPlugin) `2 weeks ago`
-- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) Symfony Contrib Recipes Repositories `2 weeks ago`
+- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) Symfony Contrib Recipes Repositories `3 weeks ago`
 - [symfony/ai](https://github.com/symfony/ai) Symfony AI is a set of components that integrate AI capabilities into PHP applications `2 months ago`
 - [acseo/TypesenseBundle](https://github.com/acseo/TypesenseBundle) Typesense PHP integration for your Symfony project `2 months ago`
-- [Sylius/PluginSkeleton](https://github.com/Sylius/PluginSkeleton) Skeleton app for Sylius plugin development `2 months ago`
+- [Sylius/PluginSkeleton](https://github.com/Sylius/PluginSkeleton) Skeleton app for Sylius plugin development `3 months ago`
 - [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation. `3 months ago`
 - [jolicode/MediaBundle](https://github.com/jolicode/MediaBundle) 🖼️ A media management bundle for Symfony applications, with Easyadmin and SonataAdmin integrations `3 months ago`
 - [BitBagCommerce/SyliusCmsPlugin](https://github.com/BitBagCommerce/SyliusCmsPlugin) Content management system for eCommerce apps created on Sylius platform. Built with Sylius code quality, flexibility, BDD. `11 months ago`
@@ -42,7 +42,6 @@
 - [[Store] Fix CacheStore and InMemoryStore to return similarity scores](https://github.com/symfony/ai/pull/856) on **symfony/ai** (merged)
 - [Add plugin rename script ](https://github.com/Sylius/PluginSkeleton/pull/479) on **Sylius/PluginSkeleton** (merged)
 - [Add Gemini 2.0 Flash Thinking model support](https://github.com/locus-technologies/agentic-commerce-protocol-demo/pull/5) on **locus-technologies/agentic-commerce-protocol-demo** (open)
-- [[MCP Bundle] Fix dependency injection and method-based / invokable support](https://github.com/symfony/ai/pull/757) on **symfony/ai** (merged)
 
 ### Connect with me!
 <a href="https://www.linkedin.com/in/camilleislasse/">
