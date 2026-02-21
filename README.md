@@ -7,22 +7,24 @@
 
 ### Recent contributions
 
-- [Guiziweb/mcp-project-management](https://github.com/Guiziweb/mcp-project-management) `2 days ago`
-- [Sylius/Stack](https://github.com/Sylius/Stack) The Sylius stack is a set of tools for your Symfony projects. `2 days ago`
+- [Guiziweb/GuiziwebTestPlugin](https://github.com/Guiziweb/GuiziwebTestPlugin) A Sylius plugin `today`
+- [Sylius/Stack](https://github.com/Sylius/Stack) The Sylius stack is a set of tools for your Symfony projects. `3 days ago`
+- [Guiziweb/mcp-project-management](https://github.com/Guiziweb/mcp-project-management) `3 days ago`
 - [Guiziweb/guiziweb-plugins](https://github.com/Guiziweb/guiziweb-plugins) Claude Code plugins for Sylius development `1 week ago`
-- [Sylius/McpServerPlugin](https://github.com/Sylius/McpServerPlugin) `2 weeks ago`
+- [Sylius/McpServerPlugin](https://github.com/Sylius/McpServerPlugin) `3 weeks ago`
 - [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) Symfony Contrib Recipes Repositories `3 weeks ago`
 - [symfony/ai](https://github.com/symfony/ai) Symfony AI is a set of components that integrate AI capabilities into PHP applications `2 months ago`
 - [acseo/TypesenseBundle](https://github.com/acseo/TypesenseBundle) Typesense PHP integration for your Symfony project `2 months ago`
 - [Sylius/PluginSkeleton](https://github.com/Sylius/PluginSkeleton) Skeleton app for Sylius plugin development `3 months ago`
-- [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation. `3 months ago`
 - [jolicode/MediaBundle](https://github.com/jolicode/MediaBundle) 🖼️ A media management bundle for Symfony applications, with Easyadmin and SonataAdmin integrations `3 months ago`
+- [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation. `3 months ago`
 - [BitBagCommerce/SyliusCmsPlugin](https://github.com/BitBagCommerce/SyliusCmsPlugin) Content management system for eCommerce apps created on Sylius platform. Built with Sylius code quality, flexibility, BDD. `11 months ago`
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) Headless open-source eCommerce platform on top of PHP/Symfony/API Platform `11 months ago`
 - [acseo/SyliusPrometheusMetricsPlugin](https://github.com/acseo/SyliusPrometheusMetricsPlugin) `11 months ago`
 
 ### Recent pull requests
 
+- [Add /api/health endpoint returning JSON status](https://github.com/Guiziweb/GuiziwebTestPlugin/pull/3) on **Guiziweb/GuiziwebTestPlugin** (open)
 - [Add sylius/mcp-server-plugin 0.2 recipe](https://github.com/symfony/recipes-contrib/pull/1930) on **symfony/recipes-contrib** (merged)
 - [ [TwigHooks] Add debug command to display hooks and hookables](https://github.com/Sylius/Stack/pull/326) on **Sylius/Stack** (merged)
 - [Migrate to symfony/mcp-bundle](https://github.com/Sylius/McpServerPlugin/pull/4) on **Sylius/McpServerPlugin** (merged)
@@ -37,12 +39,6 @@
 - [Update acseo_typesense.yaml](https://github.com/symfony/recipes-contrib/pull/1899) on **symfony/recipes-contrib** (merged)
 - [[Store] Add metadata filtering support to `InMemoryStore` and `CacheStore`](https://github.com/symfony/ai/pull/880) on **symfony/ai** (merged)
 - [Fix: Sanitize cache keys to avoid reserved characters validation error](https://github.com/jolicode/MediaBundle/pull/39) on **jolicode/MediaBundle** (merged)
-- [Make logger nullable in Transport constructors](https://github.com/modelcontextprotocol/php-sdk/pull/152) on **modelcontextprotocol/php-sdk** (merged)
-- [[MCP Bundle] Add MCP profiler support to display server capabilities](https://github.com/symfony/ai/pull/866) on **symfony/ai** (merged)
-- [[MCP Bundle] Make MonologBundle optional](https://github.com/symfony/ai/pull/864) on **symfony/ai** (merged)
-- [[Store] Fix CacheStore and InMemoryStore to return similarity scores](https://github.com/symfony/ai/pull/856) on **symfony/ai** (merged)
-- [Add plugin rename script ](https://github.com/Sylius/PluginSkeleton/pull/479) on **Sylius/PluginSkeleton** (merged)
-- [Add Gemini 2.0 Flash Thinking model support](https://github.com/locus-technologies/agentic-commerce-protocol-demo/pull/5) on **locus-technologies/agentic-commerce-protocol-demo** (open)
 
 ### Connect with me!
 <a href="https://www.linkedin.com/in/camilleislasse/">
