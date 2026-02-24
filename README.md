@@ -7,9 +7,9 @@
 
 ### Recent contributions
 
-- [Guiziweb/GuiziwebTestPlugin](https://github.com/Guiziweb/GuiziwebTestPlugin) A Sylius plugin `2 days ago`
-- [Sylius/Stack](https://github.com/Sylius/Stack) The Sylius stack is a set of tools for your Symfony projects. `5 days ago`
-- [Guiziweb/mcp-project-management](https://github.com/Guiziweb/mcp-project-management) `5 days ago`
+- [Guiziweb/GuiziwebTestPlugin](https://github.com/Guiziweb/GuiziwebTestPlugin) A Sylius plugin `3 days ago`
+- [Sylius/Stack](https://github.com/Sylius/Stack) The Sylius stack is a set of tools for your Symfony projects. `6 days ago`
+- [Guiziweb/mcp-project-management](https://github.com/Guiziweb/mcp-project-management) `6 days ago`
 - [Guiziweb/guiziweb-plugins](https://github.com/Guiziweb/guiziweb-plugins) Claude Code plugins for Sylius development `1 week ago`
 - [Sylius/McpServerPlugin](https://github.com/Sylius/McpServerPlugin) `3 weeks ago`
 - [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) Symfony Contrib Recipes Repositories `3 weeks ago`
