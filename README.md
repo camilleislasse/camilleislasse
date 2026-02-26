@@ -7,12 +7,12 @@
 
 ### Recent contributions
 
-- [Guiziweb/GuiziwebTestPlugin](https://github.com/Guiziweb/GuiziwebTestPlugin) A Sylius plugin `4 days ago`
+- [Guiziweb/GuiziwebTestPlugin](https://github.com/Guiziweb/GuiziwebTestPlugin) A Sylius plugin `5 days ago`
 - [Sylius/Stack](https://github.com/Sylius/Stack) The Sylius stack is a set of tools for your Symfony projects. `1 week ago`
 - [Guiziweb/mcp-project-management](https://github.com/Guiziweb/mcp-project-management) `1 week ago`
 - [Guiziweb/guiziweb-plugins](https://github.com/Guiziweb/guiziweb-plugins) Claude Code plugins for Sylius development `1 week ago`
 - [Sylius/McpServerPlugin](https://github.com/Sylius/McpServerPlugin) `3 weeks ago`
-- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) Symfony Contrib Recipes Repositories `3 weeks ago`
+- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) Symfony Contrib Recipes Repositories `4 weeks ago`
 - [symfony/ai](https://github.com/symfony/ai) Symfony AI is a set of components that integrate AI capabilities into PHP applications `2 months ago`
 - [acseo/TypesenseBundle](https://github.com/acseo/TypesenseBundle) Typesense PHP integration for your Symfony project `2 months ago`
 - [Sylius/PluginSkeleton](https://github.com/Sylius/PluginSkeleton) Skeleton app for Sylius plugin development `3 months ago`
@@ -24,6 +24,7 @@
 
 ### Recent pull requests
 
+- [ camilleislasse](https://github.com/tempestphp/100-million-row-challenge/pull/31) on **tempestphp/100-million-row-challenge** (open)
 - [Add sylius/mcp-server-plugin 0.2 recipe](https://github.com/symfony/recipes-contrib/pull/1930) on **symfony/recipes-contrib** (merged)
 - [ [TwigHooks] Add debug command to display hooks and hookables](https://github.com/Sylius/Stack/pull/326) on **Sylius/Stack** (merged)
 - [Migrate to symfony/mcp-bundle](https://github.com/Sylius/McpServerPlugin/pull/4) on **Sylius/McpServerPlugin** (merged)
@@ -37,7 +38,6 @@
 - [feat: add collection_field option and restore Doctrine 2.x support](https://github.com/acseo/TypesenseBundle/pull/144) on **acseo/TypesenseBundle** (merged)
 - [Update acseo_typesense.yaml](https://github.com/symfony/recipes-contrib/pull/1899) on **symfony/recipes-contrib** (merged)
 - [[Store] Add metadata filtering support to `InMemoryStore` and `CacheStore`](https://github.com/symfony/ai/pull/880) on **symfony/ai** (merged)
-- [Fix: Sanitize cache keys to avoid reserved characters validation error](https://github.com/jolicode/MediaBundle/pull/39) on **jolicode/MediaBundle** (merged)
 
 ### Connect with me!
 <a href="https://www.linkedin.com/in/camilleislasse/">
