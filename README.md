@@ -7,10 +7,10 @@
 
 ### Recent contributions
 
-- [Guiziweb/GuiziwebTestPlugin](https://github.com/Guiziweb/GuiziwebTestPlugin) A Sylius plugin `5 days ago`
+- [Guiziweb/GuiziwebTestPlugin](https://github.com/Guiziweb/GuiziwebTestPlugin) A Sylius plugin `6 days ago`
 - [Sylius/Stack](https://github.com/Sylius/Stack) The Sylius stack is a set of tools for your Symfony projects. `1 week ago`
 - [Guiziweb/mcp-project-management](https://github.com/Guiziweb/mcp-project-management) `1 week ago`
-- [Guiziweb/guiziweb-plugins](https://github.com/Guiziweb/guiziweb-plugins) Claude Code plugins for Sylius development `1 week ago`
+- [Guiziweb/guiziweb-plugins](https://github.com/Guiziweb/guiziweb-plugins) Claude Code plugins for Sylius development `2 weeks ago`
 - [Sylius/McpServerPlugin](https://github.com/Sylius/McpServerPlugin) `3 weeks ago`
 - [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) Symfony Contrib Recipes Repositories `4 weeks ago`
 - [symfony/ai](https://github.com/symfony/ai) Symfony AI is a set of components that integrate AI capabilities into PHP applications `2 months ago`
