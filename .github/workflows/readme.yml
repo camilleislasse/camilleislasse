@@ -25,3 +25,4 @@ jobs:
           commit_message: "chore: sync readme"
           commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
           branch: main
+          push_options: '--force'
