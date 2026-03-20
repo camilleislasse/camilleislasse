@@ -13,11 +13,11 @@
 {{- end}}
 
 ### Recent pull requests
-{{range recentPullRequests 50}}
-{{- if and (ne .Repo.Name "camilleislasse/memes") (ne .State "CLOSED")}}
-- [{{.Title}}]({{.URL}}) on **{{.Repo.Name}}** ({{if eq .State "MERGED"}}merged{{else}}open{{end}})
-{{- end}}
-{{- end}}
+{{range recentPullRequests 50}}                                                                                                                                                 
+{{- if and (ne .Repo.Name "camilleislasse/memes") (ne .State "CLOSED") (ne .Repo.Name "Guiziweb/sylius-migration-demo") (ne .Repo.Name "acseo/SyliusPrometheusMetricsPlugin")}} 
+- [{{.Title}}]({{.URL}}) on **{{.Repo.Name}}** ({{if eq .State "MERGED"}}merged{{else}}open{{end}})                                                                             
+{{- end}}                                                                                                                                                                       
+{{- end}}  
 
 ### Connect with me!
 <a href="https://www.linkedin.com/in/camilleislasse/">
