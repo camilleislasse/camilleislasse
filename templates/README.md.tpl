@@ -13,7 +13,7 @@
 {{- end}}
 
 ### Recent pull requests
-{{range recentPullRequests 100}}                                                                                                                                                 
+{{range recentPullRequests 99}}                                                                                                                                                 
 {{- if and (ne .Repo.Name "camilleislasse/memes") (ne .State "CLOSED") (ne .Repo.Name "Guiziweb/sylius-migration-demo") (ne .Repo.Name "acseo/SyliusPrometheusMetricsPlugin")}} 
 - [{{.Title}}]({{.URL}}) on **{{.Repo.Name}}** ({{if eq .State "MERGED"}}merged{{else}}open{{end}})                                                                             
 {{- end}}                                                                                                                                                                       
