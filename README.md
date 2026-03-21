@@ -7,7 +7,7 @@
 
 ### Recent contributions
 
-- [Guiziweb/sylius-migration-demo](https://github.com/Guiziweb/sylius-migration-demo) `5 days ago`
+- [Guiziweb/sylius-migration-demo](https://github.com/Guiziweb/sylius-migration-demo) `6 days ago`
 - [acseo/SyliusPrometheusMetricsPlugin](https://github.com/acseo/SyliusPrometheusMetricsPlugin) `1 week ago`
 - [Guiziweb/guiziweb-plugins](https://github.com/Guiziweb/guiziweb-plugins) Claude Code plugins for Sylius development `1 week ago`
 - [Sylius/Stack](https://github.com/Sylius/Stack) The Sylius stack is a set of tools for your Symfony projects. `1 month ago`
@@ -16,7 +16,7 @@
 - [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) Symfony Contrib Recipes Repositories `1 month ago`
 - [symfony/ai](https://github.com/symfony/ai) Symfony AI is a set of components that integrate AI capabilities into PHP applications `3 months ago`
 - [acseo/TypesenseBundle](https://github.com/acseo/TypesenseBundle) Typesense PHP integration for your Symfony project `3 months ago`
-- [Sylius/PluginSkeleton](https://github.com/Sylius/PluginSkeleton) Skeleton app for Sylius plugin development `3 months ago`
+- [Sylius/PluginSkeleton](https://github.com/Sylius/PluginSkeleton) Skeleton app for Sylius plugin development `4 months ago`
 - [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation. `4 months ago`
 - [jolicode/MediaBundle](https://github.com/jolicode/MediaBundle) 🖼️ A media management bundle for Symfony applications, with Easyadmin and SonataAdmin integrations `4 months ago`
 - [BitBagCommerce/SyliusCmsPlugin](https://github.com/BitBagCommerce/SyliusCmsPlugin) Content management system for eCommerce apps created on Sylius platform. Built with Sylius code quality, flexibility, BDD. `1 year ago`
