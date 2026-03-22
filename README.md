@@ -1,61 +1,33 @@
-<div align="center">
-    <img src="./assets/terminal.gif" alt="Terminal GIF"/>
-</div>
+Sylius & Symfony developer, exploring how AI can change the way we build PHP applications.
 
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=php,symfony,docker,postgres,mysql,git,github,gitlab,js,html,css,linux,bash,phpstorm)](https://skillicons.dev)
+<table>
+  <tr><td><b>Stack</b></td><td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" /> <img src="https://img.shields.io/badge/Sylius-22ba9b?style=for-the-badge&logoColor=white" /></td></tr>
+  <tr><td><b>Tools</b></td><td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,postgres,mysql,js,linux,bash,phpstorm,git,github,githubactions,gitlab" /></a></td></tr>
+</table>
 
-### Recent contributions
+### Working on
 
-- [Sylius/Stack](https://github.com/Sylius/Stack) The Sylius stack is a set of tools for your Symfony projects. `2 days ago`
-- [Guiziweb/sylius-migration-demo](https://github.com/Guiziweb/sylius-migration-demo) `1 week ago`
-- [acseo/SyliusPrometheusMetricsPlugin](https://github.com/acseo/SyliusPrometheusMetricsPlugin) `1 week ago`
-- [Guiziweb/guiziweb-plugins](https://github.com/Guiziweb/guiziweb-plugins) Claude Code plugins for Sylius development `1 week ago`
-- [Guiziweb/mcp-project-management](https://github.com/Guiziweb/mcp-project-management) `1 month ago`
-- [Sylius/McpServerPlugin](https://github.com/Sylius/McpServerPlugin) `1 month ago`
-- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) Symfony Contrib Recipes Repositories `1 month ago`
-- [symfony/ai](https://github.com/symfony/ai) Symfony AI is a set of components that integrate AI capabilities into PHP applications `3 months ago`
-- [acseo/TypesenseBundle](https://github.com/acseo/TypesenseBundle) Typesense PHP integration for your Symfony project `3 months ago`
-- [Sylius/PluginSkeleton](https://github.com/Sylius/PluginSkeleton) Skeleton app for Sylius plugin development `4 months ago`
-- [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation. `4 months ago`
-- [jolicode/MediaBundle](https://github.com/jolicode/MediaBundle) 🖼️ A media management bundle for Symfony applications, with Easyadmin and SonataAdmin integrations `4 months ago`
-- [BitBagCommerce/SyliusCmsPlugin](https://github.com/BitBagCommerce/SyliusCmsPlugin) Content management system for eCommerce apps created on Sylius platform. Built with Sylius code quality, flexibility, BDD. `1 year ago`
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) Headless open-source eCommerce platform on top of PHP/Symfony/API Platform `1 year ago`
+- [fix: add default filter to breadcrumbs configuration title to prevent ScalarDataBag exception](https://github.com/Sylius/Sylius/pull/18933) on **Sylius/Sylius** (open)
+- [[Platform] Add batch processing support](https://github.com/symfony/ai/pull/1802) on **symfony/ai** (open)
+- [[Bug] fix: use withFields and withFilters instead of addFields and addFilters in make:grid skeleton](https://github.com/Sylius/SyliusGridBundle/pull/477) on **Sylius/SyliusGridBundle** (open)
+- [[BootstrapAdminUi] fix breadcrumbs template crashing when configuration.title is not set](https://github.com/Sylius/Stack/pull/355) on **Sylius/Stack** (merged)
+- [feat: implement dark mode support](https://github.com/Sylius/Stack/pull/353) on **Sylius/Stack** (open)
+- [Add sylius/mcp-server-plugin 0.2 recipe](https://github.com/symfony/recipes-contrib/pull/1930) on **symfony/recipes-contrib** (merged)
+- [[TwigHooks] Add debug command to display hooks and hookables](https://github.com/Sylius/Stack/pull/326) on **Sylius/Stack** (merged)
+- [Migrate to symfony/mcp-bundle](https://github.com/Sylius/McpServerPlugin/pull/4) on **Sylius/McpServerPlugin** (merged)
+- [[AI Bundle] Fix PHPDoc type for collected platform call data](https://github.com/symfony/ai/pull/1177) on **symfony/ai** (merged)
+- [Make logger nullable in Transport constructors](https://github.com/modelcontextprotocol/php-sdk/pull/152) on **modelcontextprotocol/php-sdk** (merged)
+- [feat: add collection_field option and restore Doctrine 2.x support](https://github.com/acseo/TypesenseBundle/pull/144) on **acseo/TypesenseBundle** (merged)
+- [[MCP Bundle] Add MCP profiler support to display server capabilities](https://github.com/symfony/ai/pull/866) on **symfony/ai** (merged)
+- [Fix: Sanitize cache keys to avoid reserved characters validation error](https://github.com/jolicode/MediaBundle/pull/39) on **jolicode/MediaBundle** (merged)
+- [Add plugin rename script](https://github.com/Sylius/PluginSkeleton/pull/479) on **Sylius/PluginSkeleton** (merged)
+- [[MCP Bundle] Fix dependency injection and method-based / invokable support](https://github.com/symfony/ai/pull/757) on **symfony/ai** (merged)
 
-### Recent pull requests
- 
-- [fix: add default filter to breadcrumbs configuration title to prevent ScalarDataBag exception](https://github.com/Sylius/Sylius/pull/18933) on **Sylius/Sylius** (open) 
-- [[Platform] Add batch processing support](https://github.com/symfony/ai/pull/1802) on **symfony/ai** (open) 
-- [ [Bug] fix: use withFields and withFilters instead of addFields and addFilters in make:grid skeleton](https://github.com/Sylius/SyliusGridBundle/pull/477) on **Sylius/SyliusGridBundle** (open) 
-- [[BootstrapAdminUi] fix breadcrumbs template crashing when configuration.title is not set      ](https://github.com/Sylius/Stack/pull/355) on **Sylius/Stack** (merged) 
-- [feat: implement dark mode support](https://github.com/Sylius/Stack/pull/353) on **Sylius/Stack** (open) 
-- [camilleislasse (single thread)](https://github.com/tempestphp/100-million-row-challenge/pull/197) on **tempestphp/100-million-row-challenge** (open) 
-- [ camilleislasse](https://github.com/tempestphp/100-million-row-challenge/pull/31) on **tempestphp/100-million-row-challenge** (open) 
-- [Add sylius/mcp-server-plugin 0.2 recipe](https://github.com/symfony/recipes-contrib/pull/1930) on **symfony/recipes-contrib** (merged) 
-- [ [TwigHooks] Add debug command to display hooks and hookables](https://github.com/Sylius/Stack/pull/326) on **Sylius/Stack** (merged) 
-- [Migrate to symfony/mcp-bundle](https://github.com/Sylius/McpServerPlugin/pull/4) on **Sylius/McpServerPlugin** (merged) 
-- [[AI Bundle] Fix PHPDoc type for collected platform call data](https://github.com/symfony/ai/pull/1177) on **symfony/ai** (merged) 
-- [[AI Bundle] Fix profiler serialization error with unconsumed streams](https://github.com/symfony/ai/pull/1176) on **symfony/ai** (merged) 
-- [[Chat] Fix MongoDB identifier context in MessageNormalizer denormalize](https://github.com/symfony/ai/pull/1145) on **symfony/ai** (merged) 
-- [[AI Bundle] Make expression_language service optional](https://github.com/symfony/ai/pull/1131) on **symfony/ai** (merged) 
-- [[Platform] Remove unused code in Vector constructor and add missing tests](https://github.com/symfony/ai/pull/1130) on **symfony/ai** (merged) 
-- [[AI Bundle] Display tool JSON schema in profiler Platform Calls](https://github.com/symfony/ai/pull/1105) on **symfony/ai** (merged) 
-- [feat: add collection_field option and restore Doctrine 2.x support](https://github.com/acseo/TypesenseBundle/pull/144) on **acseo/TypesenseBundle** (merged) 
-- [Update acseo_typesense.yaml](https://github.com/symfony/recipes-contrib/pull/1899) on **symfony/recipes-contrib** (merged) 
-- [[Store] Add metadata filtering support to `InMemoryStore` and `CacheStore`](https://github.com/symfony/ai/pull/880) on **symfony/ai** (merged) 
-- [Fix: Sanitize cache keys to avoid reserved characters validation error](https://github.com/jolicode/MediaBundle/pull/39) on **jolicode/MediaBundle** (merged) 
-- [Make logger nullable in Transport constructors](https://github.com/modelcontextprotocol/php-sdk/pull/152) on **modelcontextprotocol/php-sdk** (merged) 
-- [[MCP Bundle] Add MCP profiler support to display server capabilities](https://github.com/symfony/ai/pull/866) on **symfony/ai** (merged) 
-- [[MCP Bundle] Make MonologBundle optional](https://github.com/symfony/ai/pull/864) on **symfony/ai** (merged) 
-- [[Store] Fix CacheStore and InMemoryStore to return similarity scores](https://github.com/symfony/ai/pull/856) on **symfony/ai** (merged) 
-- [Add plugin rename script ](https://github.com/Sylius/PluginSkeleton/pull/479) on **Sylius/PluginSkeleton** (merged) 
-- [Add Gemini 2.0 Flash Thinking model support](https://github.com/locus-technologies/agentic-commerce-protocol-demo/pull/5) on **locus-technologies/agentic-commerce-protocol-demo** (open) 
-- [[MCP Bundle] Fix dependency injection and method-based / invokable support](https://github.com/symfony/ai/pull/757) on **symfony/ai** (merged)  
+### Learning & connect
 
-### Connect with me!
-<a href="https://www.linkedin.com/in/camilleislasse/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/camilleislasse/camilleislasse/raw/main/assets/cv-camille-islasse.pdf">
-    <img src="https://img.shields.io/badge/Curriculum%20Vitae-0072ff?style=for-the-badge&logoColor=white" alt="CV"/>
-</a>
+<table>
+  <tr><td><b>Anthropic</b></td><td><a href="https://verify.skilljar.com/c/b74a4dja5d3w">MCP: Advanced Topics</a> · <a href="https://verify.skilljar.com/c/gjpk5orgudy5">Building with the Claude API</a> · <a href="https://verify.skilljar.com/c/kdggn5nrtfzb">Claude Code in Action</a> · <a href="https://verify.skilljar.com/c/fttroya257px">Claude 101</a> · <a href="https://verify.skilljar.com/c/z6qqq3hxw863">AI Fluency: Framework & Foundations</a> · <a href="https://verify.skilljar.com/c/bzdf6cqxhfrw">Introduction to MCP</a></td></tr>
+  <tr><td><b>Hugging Face</b></td><td><a href="https://huggingface.co/datasets/mcp-course/certificates/resolve/main/certificates/guiziweb/2025-10-07.png">MCP Course (Fundamentals + Unit 3: Automation in Production)</a></td></tr>
+  <tr><td><b>LinkedIn</b></td><td><a href="https://www.linkedin.com/in/camilleislasse/">camilleislasse</a></td></tr>
+  <tr><td><b>CV</b></td><td><a href="https://github.com/camilleislasse/camilleislasse/raw/main/assets/cv-camille-islasse.pdf">Télécharger</a></td></tr>
+</table>
