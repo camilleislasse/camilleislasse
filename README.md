@@ -7,10 +7,10 @@
 
 ### Recent contributions
 
-- [Guiziweb/sylius-migration-demo](https://github.com/Guiziweb/sylius-migration-demo) `6 days ago`
+- [Sylius/Stack](https://github.com/Sylius/Stack) The Sylius stack is a set of tools for your Symfony projects. `2 days ago`
+- [Guiziweb/sylius-migration-demo](https://github.com/Guiziweb/sylius-migration-demo) `1 week ago`
 - [acseo/SyliusPrometheusMetricsPlugin](https://github.com/acseo/SyliusPrometheusMetricsPlugin) `1 week ago`
 - [Guiziweb/guiziweb-plugins](https://github.com/Guiziweb/guiziweb-plugins) Claude Code plugins for Sylius development `1 week ago`
-- [Sylius/Stack](https://github.com/Sylius/Stack) The Sylius stack is a set of tools for your Symfony projects. `1 month ago`
 - [Guiziweb/mcp-project-management](https://github.com/Guiziweb/mcp-project-management) `1 month ago`
 - [Sylius/McpServerPlugin](https://github.com/Sylius/McpServerPlugin) `1 month ago`
 - [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) Symfony Contrib Recipes Repositories `1 month ago`
@@ -24,8 +24,10 @@
 
 ### Recent pull requests
  
+- [fix: add default filter to breadcrumbs configuration title to prevent ScalarDataBag exception](https://github.com/Sylius/Sylius/pull/18933) on **Sylius/Sylius** (open) 
+- [[Platform] Add batch processing support](https://github.com/symfony/ai/pull/1802) on **symfony/ai** (open) 
 - [ [Bug] fix: use withFields and withFilters instead of addFields and addFilters in make:grid skeleton](https://github.com/Sylius/SyliusGridBundle/pull/477) on **Sylius/SyliusGridBundle** (open) 
-- [[BootstrapAdminUi] fix breadcrumbs template crashing when configuration.title is not set      ](https://github.com/Sylius/Stack/pull/355) on **Sylius/Stack** (open) 
+- [[BootstrapAdminUi] fix breadcrumbs template crashing when configuration.title is not set      ](https://github.com/Sylius/Stack/pull/355) on **Sylius/Stack** (merged) 
 - [feat: implement dark mode support](https://github.com/Sylius/Stack/pull/353) on **Sylius/Stack** (open) 
 - [camilleislasse (single thread)](https://github.com/tempestphp/100-million-row-challenge/pull/197) on **tempestphp/100-million-row-challenge** (open) 
 - [ camilleislasse](https://github.com/tempestphp/100-million-row-challenge/pull/31) on **tempestphp/100-million-row-challenge** (open) 
@@ -48,10 +50,7 @@
 - [[Store] Fix CacheStore and InMemoryStore to return similarity scores](https://github.com/symfony/ai/pull/856) on **symfony/ai** (merged) 
 - [Add plugin rename script ](https://github.com/Sylius/PluginSkeleton/pull/479) on **Sylius/PluginSkeleton** (merged) 
 - [Add Gemini 2.0 Flash Thinking model support](https://github.com/locus-technologies/agentic-commerce-protocol-demo/pull/5) on **locus-technologies/agentic-commerce-protocol-demo** (open) 
-- [[MCP Bundle] Fix dependency injection and method-based / invokable support](https://github.com/symfony/ai/pull/757) on **symfony/ai** (merged) 
-- [  [MCP Bundle] Migrate from `symfony/mcp-sdk` to official `mcp/sdk`](https://github.com/symfony/ai/pull/637) on **symfony/ai** (merged) 
-- [Add benchmark functionality to compare vibesort vs sorted()](https://github.com/abyesilyurt/vibesort/pull/15) on **abyesilyurt/vibesort** (open) 
-- [update locale request](https://github.com/acseo/SyliusTranslationPlugin/pull/7) on **acseo/SyliusTranslationPlugin** (merged)  
+- [[MCP Bundle] Fix dependency injection and method-based / invokable support](https://github.com/symfony/ai/pull/757) on **symfony/ai** (merged)  
 
 ### Connect with me!
 <a href="https://www.linkedin.com/in/camilleislasse/">
