@@ -7,21 +7,21 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
-- [fix: add default filter to breadcrumbs configuration title to prevent ScalarDataBag exception](https://github.com/Sylius/Sylius/pull/18933) on **Sylius/Sylius** (open)
+- [feat: add dark mode support to admin panel](https://github.com/Sylius/Sylius/pull/18981) on **Sylius/Sylius** (open)
+- [[AI Bundle] Fix data collector crash for non-text result types](https://github.com/symfony/ai/pull/1894) on **symfony/ai** (merged)
+- [feat: compile dark mode assets and update reference](https://github.com/Sylius/Stack/pull/361) on **Sylius/Stack** (merged)
+- [[TwigHooks] Improve sylius:debug:twig-hooks command](https://github.com/Sylius/Stack/pull/357) on **Sylius/Stack** (merged)
+- [fix: add default filter to breadcrumbs configuration title to prevent ScalarDataBag exception](https://github.com/Sylius/Sylius/pull/18933) on **Sylius/Sylius** (merged)
 - [[Platform] Add batch processing support](https://github.com/symfony/ai/pull/1802) on **symfony/ai** (open)
-- [[Bug] fix: use withFields and withFilters instead of addFields and addFilters in make:grid skeleton](https://github.com/Sylius/SyliusGridBundle/pull/477) on **Sylius/SyliusGridBundle** (open)
+- [[Bug] fix: use withFields and withFilters instead of addFields and addFilters in make:grid skeleton](https://github.com/Sylius/SyliusGridBundle/pull/477) on **Sylius/SyliusGridBundle** (merged)
 - [[BootstrapAdminUi] fix breadcrumbs template crashing when configuration.title is not set](https://github.com/Sylius/Stack/pull/355) on **Sylius/Stack** (merged)
-- [feat: implement dark mode support](https://github.com/Sylius/Stack/pull/353) on **Sylius/Stack** (open)
+- [feat: implement dark mode support](https://github.com/Sylius/Stack/pull/353) on **Sylius/Stack** (merged)
 - [Add sylius/mcp-server-plugin 0.2 recipe](https://github.com/symfony/recipes-contrib/pull/1930) on **symfony/recipes-contrib** (merged)
 - [[TwigHooks] Add debug command to display hooks and hookables](https://github.com/Sylius/Stack/pull/326) on **Sylius/Stack** (merged)
 - [Migrate to symfony/mcp-bundle](https://github.com/Sylius/McpServerPlugin/pull/4) on **Sylius/McpServerPlugin** (merged)
 - [[AI Bundle] Fix PHPDoc type for collected platform call data](https://github.com/symfony/ai/pull/1177) on **symfony/ai** (merged)
-- [Make logger nullable in Transport constructors](https://github.com/modelcontextprotocol/php-sdk/pull/152) on **modelcontextprotocol/php-sdk** (merged)
-- [feat: add collection_field option and restore Doctrine 2.x support](https://github.com/acseo/TypesenseBundle/pull/144) on **acseo/TypesenseBundle** (merged)
-- [[MCP Bundle] Add MCP profiler support to display server capabilities](https://github.com/symfony/ai/pull/866) on **symfony/ai** (merged)
-- [Fix: Sanitize cache keys to avoid reserved characters validation error](https://github.com/jolicode/MediaBundle/pull/39) on **jolicode/MediaBundle** (merged)
-- [Add plugin rename script](https://github.com/Sylius/PluginSkeleton/pull/479) on **Sylius/PluginSkeleton** (merged)
-- [[MCP Bundle] Fix dependency injection and method-based / invokable support](https://github.com/symfony/ai/pull/757) on **symfony/ai** (merged)
+- [[AI Bundle] Fix profiler serialization error with unconsumed streams](https://github.com/symfony/ai/pull/1176) on **symfony/ai** (merged)
+- [[Chat] Fix MongoDB identifier context in MessageNormalizer denormalize](https://github.com/symfony/ai/pull/1145) on **symfony/ai** (merged)
 
 ### Learning & connect
 
