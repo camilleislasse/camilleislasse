@@ -7,13 +7,7 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
-{{- $count := 0}}
-{{- range recentPullRequests 99}}
-{{- if and (lt $count 15) (ne .Repo.Name "camilleislasse/memes") (ne .State "CLOSED") (ne .Repo.Name "Guiziweb/sylius-migration-demo") (ne .Repo.Name "acseo/SyliusPrometheusMetricsPlugin") (ne .Repo.Name "tempestphp/100-million-row-challenge") (ne .Repo.IsPrivate true)}}
-- [{{.Title}}]({{.URL}}) on **{{.Repo.Name}}** ({{if eq .State "MERGED"}}merged{{else}}open{{end}})
-{{- $count = add $count 1}}
-{{- end}}
-{{- end}}
+<!-- WORKING_ON -->
 
 ### Learning & connect
 

@@ -6,17 +6,17 @@ on:
   workflow_dispatch:
 
 jobs:
-  markscribe:
+  update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - uses: muesli/readme-scribe@master
+      - name: Build README
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
-        with:
-          template: "templates/README.md.tpl"
-          writeTo: "README.md"
+        run: |
+          chmod +x scripts/build-readme.sh
+          scripts/build-readme.sh templates/README.md.tpl README.md
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         env:
