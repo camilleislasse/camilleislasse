@@ -7,6 +7,7 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
+- [fix(menu): use Sylius 2.x extras.routes format](https://github.com/monsieurbiz/SyliusSettingsPlugin/pull/88) on **monsieurbiz/SyliusSettingsPlugin** (open)
 - [feat: add dark mode support to admin panel](https://github.com/Sylius/Sylius/pull/18981) on **Sylius/Sylius** (open)
 - [[AI Bundle] Fix data collector crash for non-text result types](https://github.com/symfony/ai/pull/1894) on **symfony/ai** (merged)
 - [feat: compile dark mode assets and update reference](https://github.com/Sylius/Stack/pull/361) on **Sylius/Stack** (merged)
@@ -21,7 +22,6 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 - [Migrate to symfony/mcp-bundle](https://github.com/Sylius/McpServerPlugin/pull/4) on **Sylius/McpServerPlugin** (merged)
 - [[AI Bundle] Fix PHPDoc type for collected platform call data](https://github.com/symfony/ai/pull/1177) on **symfony/ai** (merged)
 - [[AI Bundle] Fix profiler serialization error with unconsumed streams](https://github.com/symfony/ai/pull/1176) on **symfony/ai** (merged)
-- [[Chat] Fix MongoDB identifier context in MessageNormalizer denormalize](https://github.com/symfony/ai/pull/1145) on **symfony/ai** (merged)
 
 ### Learning & connect
 
