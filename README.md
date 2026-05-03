@@ -7,6 +7,7 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
+- [[AI Bundle][Platform] Add #[SchemaSource] attribute for runtime JSONSchema fragments](https://github.com/symfony/ai/pull/2024) on **symfony/ai** (open)
 - [[AI Bundle] Fix ValidateToolCallArgumentsListener registration when a agent is not installed](https://github.com/symfony/ai/pull/2018) on **symfony/ai** (open)
 - [chore(behat): switch js session from panther to chrome service](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/3) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [fix(release-please): re-add marketplace.json to extra-files](https://github.com/Guiziweb/guiziweb-plugins/pull/12) on **Guiziweb/guiziweb-plugins** (merged)
@@ -21,7 +22,6 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 - [[BootstrapAdminUi] fix breadcrumbs template crashing when configuration.title is not set](https://github.com/Sylius/Stack/pull/355) on **Sylius/Stack** (merged)
 - [feat: implement dark mode support](https://github.com/Sylius/Stack/pull/353) on **Sylius/Stack** (merged)
 - [Add sylius/mcp-server-plugin 0.2 recipe](https://github.com/symfony/recipes-contrib/pull/1930) on **symfony/recipes-contrib** (merged)
-- [[TwigHooks] Add debug command to display hooks and hookables](https://github.com/Sylius/Stack/pull/326) on **Sylius/Stack** (merged)
 
 ### Learning & connect
 
