@@ -8,7 +8,7 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 ### Working on
 
 - [[AI Bundle][Platform] Add #[SchemaSource] attribute for runtime JSONSchema fragments](https://github.com/symfony/ai/pull/2024) on **symfony/ai** (open)
-- [[AI Bundle] Fix ValidateToolCallArgumentsListener registration when a agent is not installed](https://github.com/symfony/ai/pull/2018) on **symfony/ai** (open)
+- [[AI Bundle] Fix ValidateToolCallArgumentsListener registration when a agent is not installed](https://github.com/symfony/ai/pull/2018) on **symfony/ai** (merged)
 - [chore(behat): switch js session from panther to chrome service](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/3) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [fix(release-please): re-add marketplace.json to extra-files](https://github.com/Guiziweb/guiziweb-plugins/pull/12) on **Guiziweb/guiziweb-plugins** (merged)
 - [fix(menu): use Sylius 2.x extras.routes format](https://github.com/monsieurbiz/SyliusSettingsPlugin/pull/88) on **monsieurbiz/SyliusSettingsPlugin** (open)
