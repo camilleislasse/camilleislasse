@@ -7,6 +7,12 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
+- [refactor: pivot from GraphQL gateway to npm library](https://github.com/Guiziweb/claude-data-api/pull/26) on **Guiziweb/claude-data-api** (merged)
+- [feat(parser): add session aggregator (M2.4)](https://github.com/Guiziweb/claude-data-api/pull/25) on **Guiziweb/claude-data-api** (merged)
+- [chore: add pre-commit hook](https://github.com/Guiziweb/claude-data-api/pull/24) on **Guiziweb/claude-data-api** (merged)
+- [feat(parser): add stream-based JSONL parser](https://github.com/Guiziweb/claude-data-api/pull/23) on **Guiziweb/claude-data-api** (merged)
+- [feat(parser): add Valibot schemas for V0.1 ContentBlock variants](https://github.com/Guiziweb/claude-data-api/pull/22) on **Guiziweb/claude-data-api** (merged)
+- [feat(parser): add Valibot schemas for V0.1 JSONL events](https://github.com/Guiziweb/claude-data-api/pull/20) on **Guiziweb/claude-data-api** (merged)
 - [[AI Bundle][Platform] Add #[SchemaSource] attribute for runtime JSONSchema fragments](https://github.com/symfony/ai/pull/2024) on **symfony/ai** (open)
 - [[AI Bundle] Fix ValidateToolCallArgumentsListener registration when a agent is not installed](https://github.com/symfony/ai/pull/2018) on **symfony/ai** (merged)
 - [chore(behat): switch js session from panther to chrome service](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/3) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
@@ -16,12 +22,6 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 - [[AI Bundle] Fix data collector crash for non-text result types](https://github.com/symfony/ai/pull/1894) on **symfony/ai** (merged)
 - [feat: compile dark mode assets and update reference](https://github.com/Sylius/Stack/pull/361) on **Sylius/Stack** (merged)
 - [[TwigHooks] Improve sylius:debug:twig-hooks command](https://github.com/Sylius/Stack/pull/357) on **Sylius/Stack** (merged)
-- [fix: add default filter to breadcrumbs configuration title to prevent ScalarDataBag exception](https://github.com/Sylius/Sylius/pull/18933) on **Sylius/Sylius** (merged)
-- [[Platform] Add batch processing support](https://github.com/symfony/ai/pull/1802) on **symfony/ai** (open)
-- [[Bug] fix: use withFields and withFilters instead of addFields and addFilters in make:grid skeleton](https://github.com/Sylius/SyliusGridBundle/pull/477) on **Sylius/SyliusGridBundle** (merged)
-- [[BootstrapAdminUi] fix breadcrumbs template crashing when configuration.title is not set](https://github.com/Sylius/Stack/pull/355) on **Sylius/Stack** (merged)
-- [feat: implement dark mode support](https://github.com/Sylius/Stack/pull/353) on **Sylius/Stack** (merged)
-- [Add sylius/mcp-server-plugin 0.2 recipe](https://github.com/symfony/recipes-contrib/pull/1930) on **symfony/recipes-contrib** (merged)
 
 ### Learning & connect
 
