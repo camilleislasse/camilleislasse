@@ -7,6 +7,14 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
+- [docs: rewrite README for M3](https://github.com/Guiziweb/claude-data-api/pull/34) on **Guiziweb/claude-data-api** (merged)
+- [feat(m3.5): firstPrompt — CC-exact extraction, rename firstUserText](https://github.com/Guiziweb/claude-data-api/pull/33) on **Guiziweb/claude-data-api** (merged)
+- [feat(m3.4): claudeCharsByFile from attribution-snapshot](https://github.com/Guiziweb/claude-data-api/pull/32) on **Guiziweb/claude-data-api** (merged)
+- [feat(m3.3): complete SessionEntry union + meta fields](https://github.com/Guiziweb/claude-data-api/pull/31) on **Guiziweb/claude-data-api** (merged)
+- [feat(m3.2): analytics — tokens, tools, hourOfDay, message counts, context window](https://github.com/Guiziweb/claude-data-api/pull/30) on **Guiziweb/claude-data-api** (merged)
+- [feat(parser): add parseSession — reads main transcript + subagent files (M3.1)](https://github.com/Guiziweb/claude-data-api/pull/29) on **Guiziweb/claude-data-api** (merged)
+- [ci: deploy TypeDoc to GitHub Pages on main push](https://github.com/Guiziweb/claude-data-api/pull/28) on **Guiziweb/claude-data-api** (merged)
+- [refactor: explicit public types, consistent naming, TypeDoc CI](https://github.com/Guiziweb/claude-data-api/pull/27) on **Guiziweb/claude-data-api** (merged)
 - [refactor: pivot from GraphQL gateway to npm library](https://github.com/Guiziweb/claude-data-api/pull/26) on **Guiziweb/claude-data-api** (merged)
 - [feat(parser): add session aggregator (M2.4)](https://github.com/Guiziweb/claude-data-api/pull/25) on **Guiziweb/claude-data-api** (merged)
 - [chore: add pre-commit hook](https://github.com/Guiziweb/claude-data-api/pull/24) on **Guiziweb/claude-data-api** (merged)
@@ -14,14 +22,6 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 - [feat(parser): add Valibot schemas for V0.1 ContentBlock variants](https://github.com/Guiziweb/claude-data-api/pull/22) on **Guiziweb/claude-data-api** (merged)
 - [feat(parser): add Valibot schemas for V0.1 JSONL events](https://github.com/Guiziweb/claude-data-api/pull/20) on **Guiziweb/claude-data-api** (merged)
 - [[AI Bundle][Platform] Add #[SchemaSource] attribute for runtime JSONSchema fragments](https://github.com/symfony/ai/pull/2024) on **symfony/ai** (open)
-- [[AI Bundle] Fix ValidateToolCallArgumentsListener registration when a agent is not installed](https://github.com/symfony/ai/pull/2018) on **symfony/ai** (merged)
-- [chore(behat): switch js session from panther to chrome service](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/3) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [fix(release-please): re-add marketplace.json to extra-files](https://github.com/Guiziweb/guiziweb-plugins/pull/12) on **Guiziweb/guiziweb-plugins** (merged)
-- [fix(menu): use Sylius 2.x extras.routes format](https://github.com/monsieurbiz/SyliusSettingsPlugin/pull/88) on **monsieurbiz/SyliusSettingsPlugin** (open)
-- [feat: add dark mode support to admin panel](https://github.com/Sylius/Sylius/pull/18981) on **Sylius/Sylius** (open)
-- [[AI Bundle] Fix data collector crash for non-text result types](https://github.com/symfony/ai/pull/1894) on **symfony/ai** (merged)
-- [feat: compile dark mode assets and update reference](https://github.com/Sylius/Stack/pull/361) on **Sylius/Stack** (merged)
-- [[TwigHooks] Improve sylius:debug:twig-hooks command](https://github.com/Sylius/Stack/pull/357) on **Sylius/Stack** (merged)
 
 ### Learning & connect
 
