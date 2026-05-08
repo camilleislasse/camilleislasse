@@ -7,21 +7,21 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
-- [docs: rewrite README for M3](https://github.com/Guiziweb/claude-data-api/pull/34) on **Guiziweb/claude-data-api** (merged)
-- [feat(m3.5): firstPrompt — CC-exact extraction, rename firstUserText](https://github.com/Guiziweb/claude-data-api/pull/33) on **Guiziweb/claude-data-api** (merged)
-- [feat(m3.4): claudeCharsByFile from attribution-snapshot](https://github.com/Guiziweb/claude-data-api/pull/32) on **Guiziweb/claude-data-api** (merged)
-- [feat(m3.3): complete SessionEntry union + meta fields](https://github.com/Guiziweb/claude-data-api/pull/31) on **Guiziweb/claude-data-api** (merged)
-- [feat(m3.2): analytics — tokens, tools, hourOfDay, message counts, context window](https://github.com/Guiziweb/claude-data-api/pull/30) on **Guiziweb/claude-data-api** (merged)
-- [feat(parser): add parseSession — reads main transcript + subagent files (M3.1)](https://github.com/Guiziweb/claude-data-api/pull/29) on **Guiziweb/claude-data-api** (merged)
-- [ci: deploy TypeDoc to GitHub Pages on main push](https://github.com/Guiziweb/claude-data-api/pull/28) on **Guiziweb/claude-data-api** (merged)
-- [refactor: explicit public types, consistent naming, TypeDoc CI](https://github.com/Guiziweb/claude-data-api/pull/27) on **Guiziweb/claude-data-api** (merged)
-- [refactor: pivot from GraphQL gateway to npm library](https://github.com/Guiziweb/claude-data-api/pull/26) on **Guiziweb/claude-data-api** (merged)
-- [feat(parser): add session aggregator (M2.4)](https://github.com/Guiziweb/claude-data-api/pull/25) on **Guiziweb/claude-data-api** (merged)
-- [chore: add pre-commit hook](https://github.com/Guiziweb/claude-data-api/pull/24) on **Guiziweb/claude-data-api** (merged)
-- [feat(parser): add stream-based JSONL parser](https://github.com/Guiziweb/claude-data-api/pull/23) on **Guiziweb/claude-data-api** (merged)
-- [feat(parser): add Valibot schemas for V0.1 ContentBlock variants](https://github.com/Guiziweb/claude-data-api/pull/22) on **Guiziweb/claude-data-api** (merged)
-- [feat(parser): add Valibot schemas for V0.1 JSONL events](https://github.com/Guiziweb/claude-data-api/pull/20) on **Guiziweb/claude-data-api** (merged)
-- [[AI Bundle][Platform] Add #[SchemaSource] attribute for runtime JSONSchema fragments](https://github.com/symfony/ai/pull/2024) on **symfony/ai** (open)
+- [refactor!: streaming API redesign](https://github.com/Guiziweb/claude-code-data/pull/61) on **Guiziweb/claude-code-data** (merged)
+- [fix: point exports directly to dist (drop publishConfig swap)](https://github.com/Guiziweb/claude-code-data/pull/59) on **Guiziweb/claude-code-data** (merged)
+- [fix: match GitHub org case in package.json URLs](https://github.com/Guiziweb/claude-code-data/pull/57) on **Guiziweb/claude-code-data** (merged)
+- [fix: use Node 24 + setup-node@v6 for OIDC trusted publishing](https://github.com/Guiziweb/claude-code-data/pull/55) on **Guiziweb/claude-code-data** (merged)
+- [fix: bump npm to latest before publish (OIDC requires 11.5.1+)](https://github.com/Guiziweb/claude-code-data/pull/53) on **Guiziweb/claude-code-data** (merged)
+- [feat: publish on npm + switch to OIDC trusted publishing](https://github.com/Guiziweb/claude-code-data/pull/51) on **Guiziweb/claude-code-data** (merged)
+- [feat: setup tsdown build + npm publish workflow](https://github.com/Guiziweb/claude-code-data/pull/50) on **Guiziweb/claude-code-data** (merged)
+- [chore: use guiziwebbot App token for release-please](https://github.com/Guiziweb/claude-code-data/pull/48) on **Guiziweb/claude-code-data** (merged)
+- [fix: move bump-minor-pre-major inside package config](https://github.com/Guiziweb/claude-code-data/pull/46) on **Guiziweb/claude-code-data** (merged)
+- [chore: setup release-please for automated versioning](https://github.com/Guiziweb/claude-code-data/pull/44) on **Guiziweb/claude-code-data** (merged)
+- [chore: rename package to claude-code-data](https://github.com/Guiziweb/claude-code-data/pull/43) on **Guiziweb/claude-code-data** (merged)
+- [refactor: simplify public API to parseSession + parseAllSessions](https://github.com/Guiziweb/claude-code-data/pull/42) on **Guiziweb/claude-code-data** (merged)
+- [feat(m3.6): apiDurationMs from system/turn_duration events](https://github.com/Guiziweb/claude-code-data/pull/41) on **Guiziweb/claude-code-data** (merged)
+- [docs: rewrite README for M3](https://github.com/Guiziweb/claude-code-data/pull/34) on **Guiziweb/claude-code-data** (merged)
+- [feat(m3.5): firstPrompt — CC-exact extraction, rename firstUserText](https://github.com/Guiziweb/claude-code-data/pull/33) on **Guiziweb/claude-code-data** (merged)
 
 ### Learning & connect
 
