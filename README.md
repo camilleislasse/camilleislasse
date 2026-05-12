@@ -7,6 +7,7 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
+- [fix(deps): pin symfony/ai-* to dev-main to fix symfony/ai issue 2018](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/5) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [refactor!: streaming API redesign](https://github.com/Guiziweb/claude-code-data/pull/61) on **Guiziweb/claude-code-data** (merged)
 - [fix: point exports directly to dist (drop publishConfig swap)](https://github.com/Guiziweb/claude-code-data/pull/59) on **Guiziweb/claude-code-data** (merged)
 - [fix: match GitHub org case in package.json URLs](https://github.com/Guiziweb/claude-code-data/pull/57) on **Guiziweb/claude-code-data** (merged)
@@ -21,7 +22,6 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 - [refactor: simplify public API to parseSession + parseAllSessions](https://github.com/Guiziweb/claude-code-data/pull/42) on **Guiziweb/claude-code-data** (merged)
 - [feat(m3.6): apiDurationMs from system/turn_duration events](https://github.com/Guiziweb/claude-code-data/pull/41) on **Guiziweb/claude-code-data** (merged)
 - [docs: rewrite README for M3](https://github.com/Guiziweb/claude-code-data/pull/34) on **Guiziweb/claude-code-data** (merged)
-- [feat(m3.5): firstPrompt — CC-exact extraction, rename firstUserText](https://github.com/Guiziweb/claude-code-data/pull/33) on **Guiziweb/claude-code-data** (merged)
 
 ### Learning & connect
 
