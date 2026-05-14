@@ -7,6 +7,12 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
+- [feat(resolver): tolerate missing AI platform at install time with clear runtime error](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/16) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (open)
+- [fix(behat): freeze clock and use absolute dates for stable LLM fixtures](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/15) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
+- [fix: declare engines.node>=20 (drop stale engines.bun)](https://github.com/Guiziweb/claude-code-data/pull/63) on **Guiziweb/claude-code-data** (merged)
+- [chore(ci): pin composer to 2.9.8 to fix GHSA token disclosure](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/14) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
+- [feat(grid-assistant): add opt-in grid and opt-out filter/field options](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/13) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
+- [refactor(processor): split GridQueryProcessor into resolver and validators](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/12) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [test(unit): cover rate limiting, LLM errors, getType, and label translation](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/11) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [refactor(schema): extract interfaces for grid assistant services](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/10) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [ci(behat): enable Behat tests in CI workflow](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/9) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
@@ -16,12 +22,6 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 - [fix(deps): pin symfony/ai-* to dev-main to fix symfony/ai issue 2018](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/5) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [refactor!: streaming API redesign](https://github.com/Guiziweb/claude-code-data/pull/61) on **Guiziweb/claude-code-data** (merged)
 - [fix: point exports directly to dist (drop publishConfig swap)](https://github.com/Guiziweb/claude-code-data/pull/59) on **Guiziweb/claude-code-data** (merged)
-- [fix: match GitHub org case in package.json URLs](https://github.com/Guiziweb/claude-code-data/pull/57) on **Guiziweb/claude-code-data** (merged)
-- [fix: use Node 24 + setup-node@v6 for OIDC trusted publishing](https://github.com/Guiziweb/claude-code-data/pull/55) on **Guiziweb/claude-code-data** (merged)
-- [fix: bump npm to latest before publish (OIDC requires 11.5.1+)](https://github.com/Guiziweb/claude-code-data/pull/53) on **Guiziweb/claude-code-data** (merged)
-- [feat: publish on npm + switch to OIDC trusted publishing](https://github.com/Guiziweb/claude-code-data/pull/51) on **Guiziweb/claude-code-data** (merged)
-- [feat: setup tsdown build + npm publish workflow](https://github.com/Guiziweb/claude-code-data/pull/50) on **Guiziweb/claude-code-data** (merged)
-- [chore: use guiziwebbot App token for release-please](https://github.com/Guiziweb/claude-code-data/pull/48) on **Guiziweb/claude-code-data** (merged)
 
 ### Learning & connect
 
