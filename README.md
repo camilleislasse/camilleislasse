@@ -7,6 +7,7 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
+- [docs: fix typos and modernize extending guide for #[AsFilter]](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/25) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [feat(rate-limit): make the rate-limit key resolver pluggable](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/23) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [chore: add Guiziweb authors metadata to composer.json](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/22) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [chore: align supported versions (Sylius ^2.1, PHP 8.2-8.4 in CI)](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/21) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
@@ -21,7 +22,6 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 - [refactor(processor): split GridQueryProcessor into resolver and validators](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/12) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [test(unit): cover rate limiting, LLM errors, getType, and label translation](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/11) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [refactor(schema): extract interfaces for grid assistant services](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/10) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [ci(behat): enable Behat tests in CI workflow](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/9) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 
 ### Learning & connect
 
