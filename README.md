@@ -7,21 +7,21 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
+- [refactor(schema): symmetric registry interface and tighten filter exposure to LLM](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/38) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
+- [fix(test): align sort direction test with skip behavior from #29](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/37) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
+- [chore(behat): remove orphan LLM cassettes never replayed by any scenario](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/36) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
+- [ci: add composer audit step to detect dependency CVEs](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/35) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
+- [fix(security): enforce enabled_grids whitelist in GridQueryProcessor](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/34) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
+- [fix(security): route Live Component under admin firewall](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/33) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
+- [chore(formatter): drop unused warnings field from FilterFormatResult](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/32) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
+- [test(validator): cover GridCriteriaValidator and GridSortingValidator](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/31) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
+- [feat(component): validate query with Symfony Validator (NotBlank + Length 500)](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/30) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
+- [fix(validator): skip invalid sort directions instead of forcing asc](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/29) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
+- [ci: run phpstan and ecs in build workflow](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/28) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
+- [chore(deps): bump symfony/ai-* to ^0.9 and drop ai-agent workaround](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/27) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
+- [docs: update demo gif](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/26) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [docs: fix typos and modernize extending guide for #[AsFilter]](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/25) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [feat(rate-limit): make the rate-limit key resolver pluggable](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/23) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [chore: add Guiziweb authors metadata to composer.json](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/22) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [chore: align supported versions (Sylius ^2.1, PHP 8.2-8.4 in CI)](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/21) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [ci: add Sylius 2.2 to matrix](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/20) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [docs: add README pitch + installation, usage, extending guides](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/19) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [chore: drop unused markdown dep and add native required validation](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/18) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [feat(resolver): tolerate missing AI platform at install time with clear runtime error](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/16) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [fix(behat): freeze clock and use absolute dates for stable LLM fixtures](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/15) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [fix: declare engines.node>=20 (drop stale engines.bun)](https://github.com/Guiziweb/claude-code-data/pull/63) on **Guiziweb/claude-code-data** (merged)
-- [chore(ci): pin composer to 2.9.8 to fix GHSA token disclosure](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/14) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [feat(grid-assistant): add opt-in grid and opt-out filter/field options](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/13) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [refactor(processor): split GridQueryProcessor into resolver and validators](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/12) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [test(unit): cover rate limiting, LLM errors, getType, and label translation](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/11) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [refactor(schema): extract interfaces for grid assistant services](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/10) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 
 ### Learning & connect
 
