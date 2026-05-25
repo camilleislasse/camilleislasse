@@ -7,6 +7,9 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
+- [feat: distribute sylius plugins via the Cursor marketplace](https://github.com/Guiziweb/guiziweb-plugins/pull/19) on **Guiziweb/guiziweb-plugins** (merged)
+- [fix(marketplace): drop redundant version fields, plugin.json is source of truth](https://github.com/Guiziweb/guiziweb-plugins/pull/18) on **Guiziweb/guiziweb-plugins** (merged)
+- [feat!: split sylius plugin into sylius-plugin and sylius-app](https://github.com/Guiziweb/guiziweb-plugins/pull/16) on **Guiziweb/guiziweb-plugins** (merged)
 - [refactor(schema): symmetric registry interface and tighten filter exposure to LLM](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/38) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [fix(test): align sort direction test with skip behavior from #29](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/37) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [chore(behat): remove orphan LLM cassettes never replayed by any scenario](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/36) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
@@ -19,9 +22,6 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 - [fix(validator): skip invalid sort directions instead of forcing asc](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/29) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [ci: run phpstan and ecs in build workflow](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/28) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [chore(deps): bump symfony/ai-* to ^0.9 and drop ai-agent workaround](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/27) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [docs: update demo gif](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/26) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [docs: fix typos and modernize extending guide for #[AsFilter]](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/25) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [feat(rate-limit): make the rate-limit key resolver pluggable](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/23) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 
 ### Learning & connect
 
