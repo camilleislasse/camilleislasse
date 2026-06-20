@@ -7,6 +7,8 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
+- [ci: add claude-dispatch stub](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/39) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
+- [chore: remove unused bootstrap pipeline](https://github.com/Guiziweb/.github/pull/2) on **Guiziweb/.github** (merged)
 - [feat: distribute sylius plugins via the Cursor marketplace](https://github.com/Guiziweb/guiziweb-plugins/pull/19) on **Guiziweb/guiziweb-plugins** (merged)
 - [fix(marketplace): drop redundant version fields, plugin.json is source of truth](https://github.com/Guiziweb/guiziweb-plugins/pull/18) on **Guiziweb/guiziweb-plugins** (merged)
 - [feat!: split sylius plugin into sylius-plugin and sylius-app](https://github.com/Guiziweb/guiziweb-plugins/pull/16) on **Guiziweb/guiziweb-plugins** (merged)
@@ -20,8 +22,6 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 - [test(validator): cover GridCriteriaValidator and GridSortingValidator](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/31) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [feat(component): validate query with Symfony Validator (NotBlank + Length 500)](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/30) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [fix(validator): skip invalid sort directions instead of forcing asc](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/29) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [ci: run phpstan and ecs in build workflow](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/28) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [chore(deps): bump symfony/ai-* to ^0.9 and drop ai-agent workaround](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/27) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 
 ### Learning & connect
 
