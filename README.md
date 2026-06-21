@@ -7,6 +7,10 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
+- [fix(guiziweb-bot): one label at a time (clear the other two on each transition)](https://github.com/Guiziweb/guiziweb-plugins/pull/25) on **Guiziweb/guiziweb-plugins** (merged)
+- [feat(guiziweb-bot): clearer labels (in progress / needs review / blocked)](https://github.com/Guiziweb/guiziweb-plugins/pull/24) on **Guiziweb/guiziweb-plugins** (merged)
+- [feat(guiziweb-bot): bot:review label + reassign PR on handback](https://github.com/Guiziweb/guiziweb-plugins/pull/23) on **Guiziweb/guiziweb-plugins** (merged)
+- [feat: add guiziweb-bot plugin (fix-issue, revise-pr)](https://github.com/Guiziweb/guiziweb-plugins/pull/21) on **Guiziweb/guiziweb-plugins** (merged)
 - [ci: add claude-dispatch stub](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/39) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [chore: remove unused bootstrap pipeline](https://github.com/Guiziweb/.github/pull/2) on **Guiziweb/.github** (merged)
 - [feat: distribute sylius plugins via the Cursor marketplace](https://github.com/Guiziweb/guiziweb-plugins/pull/19) on **Guiziweb/guiziweb-plugins** (merged)
@@ -18,10 +22,6 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 - [ci: add composer audit step to detect dependency CVEs](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/35) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [fix(security): enforce enabled_grids whitelist in GridQueryProcessor](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/34) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [fix(security): route Live Component under admin firewall](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/33) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [chore(formatter): drop unused warnings field from FilterFormatResult](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/32) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [test(validator): cover GridCriteriaValidator and GridSortingValidator](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/31) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [feat(component): validate query with Symfony Validator (NotBlank + Length 500)](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/30) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [fix(validator): skip invalid sort directions instead of forcing asc](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/29) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 
 ### Learning & connect
 
