@@ -7,6 +7,7 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
+- [feat: add devcontainer + Playwright MCP](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/43) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [fix(guiziweb-bot): one label at a time (clear the other two on each transition)](https://github.com/Guiziweb/guiziweb-plugins/pull/25) on **Guiziweb/guiziweb-plugins** (merged)
 - [feat(guiziweb-bot): clearer labels (in progress / needs review / blocked)](https://github.com/Guiziweb/guiziweb-plugins/pull/24) on **Guiziweb/guiziweb-plugins** (merged)
 - [feat(guiziweb-bot): bot:review label + reassign PR on handback](https://github.com/Guiziweb/guiziweb-plugins/pull/23) on **Guiziweb/guiziweb-plugins** (merged)
@@ -21,7 +22,6 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 - [chore(behat): remove orphan LLM cassettes never replayed by any scenario](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/36) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [ci: add composer audit step to detect dependency CVEs](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/35) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [fix(security): enforce enabled_grids whitelist in GridQueryProcessor](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/34) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [fix(security): route Live Component under admin firewall](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/33) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 
 ### Learning & connect
 
