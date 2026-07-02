@@ -7,6 +7,7 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
+- [ci: grant id-token to the claude-dispatch caller](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/46) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [fix(guiziweb-bot): single-owner labels in fix-issue and revise-pr](https://github.com/Guiziweb/guiziweb-plugins/pull/26) on **Guiziweb/guiziweb-plugins** (merged)
 - [feat: add devcontainer + Playwright MCP](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/43) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [fix(guiziweb-bot): one label at a time (clear the other two on each transition)](https://github.com/Guiziweb/guiziweb-plugins/pull/25) on **Guiziweb/guiziweb-plugins** (merged)
@@ -21,7 +22,6 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 - [refactor(schema): symmetric registry interface and tighten filter exposure to LLM](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/38) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [fix(test): align sort direction test with skip behavior from #29](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/37) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [chore(behat): remove orphan LLM cassettes never replayed by any scenario](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/36) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [ci: add composer audit step to detect dependency CVEs](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/35) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 
 ### Learning & connect
 
