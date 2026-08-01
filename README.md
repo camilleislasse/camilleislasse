@@ -7,6 +7,11 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
+- [chore: move guiziweb-bot to Guiziweb/.github](https://github.com/Guiziweb/guiziweb-plugins/pull/29) on **Guiziweb/guiziweb-plugins** (merged)
+- [feat: claude-dispatch workflow (guiziwebbot)](https://github.com/Guiziweb/.github/pull/3) on **Guiziweb/.github** (merged)
+- [chore: drop the Cursor marketplace mirror](https://github.com/Guiziweb/guiziweb-plugins/pull/28) on **Guiziweb/guiziweb-plugins** (merged)
+- [chore: move claude-hud to its own repository](https://github.com/Guiziweb/guiziweb-plugins/pull/27) on **Guiziweb/guiziweb-plugins** (merged)
+- [[AdminBundle] Dark mode follow-up fixes](https://github.com/Sylius/Sylius/pull/19163) on **Sylius/Sylius** (open)
 - [ci: grant id-token to the claude-dispatch caller](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/46) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [fix(guiziweb-bot): single-owner labels in fix-issue and revise-pr](https://github.com/Guiziweb/guiziweb-plugins/pull/26) on **Guiziweb/guiziweb-plugins** (merged)
 - [feat: add devcontainer + Playwright MCP](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/43) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
@@ -17,11 +22,6 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 - [ci: add claude-dispatch stub](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/39) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [chore: remove unused bootstrap pipeline](https://github.com/Guiziweb/.github/pull/2) on **Guiziweb/.github** (merged)
 - [feat: distribute sylius plugins via the Cursor marketplace](https://github.com/Guiziweb/guiziweb-plugins/pull/19) on **Guiziweb/guiziweb-plugins** (merged)
-- [fix(marketplace): drop redundant version fields, plugin.json is source of truth](https://github.com/Guiziweb/guiziweb-plugins/pull/18) on **Guiziweb/guiziweb-plugins** (merged)
-- [feat!: split sylius plugin into sylius-plugin and sylius-app](https://github.com/Guiziweb/guiziweb-plugins/pull/16) on **Guiziweb/guiziweb-plugins** (merged)
-- [refactor(schema): symmetric registry interface and tighten filter exposure to LLM](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/38) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [fix(test): align sort direction test with skip behavior from #29](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/37) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [chore(behat): remove orphan LLM cassettes never replayed by any scenario](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/36) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 
 ### Learning & connect
 
