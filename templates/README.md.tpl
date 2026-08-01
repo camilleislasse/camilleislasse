@@ -9,11 +9,10 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 <!-- WORKING_ON -->
 
-### Learning & connect
+### Connect
 
 <table>
-  <tr><td><b>Anthropic</b></td><td><a href="https://verify.skilljar.com/c/b74a4dja5d3w">MCP: Advanced Topics</a> · <a href="https://verify.skilljar.com/c/gjpk5orgudy5">Building with the Claude API</a> · <a href="https://verify.skilljar.com/c/kdggn5nrtfzb">Claude Code in Action</a> · <a href="https://verify.skilljar.com/c/fttroya257px">Claude 101</a> · <a href="https://verify.skilljar.com/c/z6qqq3hxw863">AI Fluency: Framework & Foundations</a> · <a href="https://verify.skilljar.com/c/bzdf6cqxhfrw">Introduction to MCP</a></td></tr>
-  <tr><td><b>Hugging Face</b></td><td><a href="https://huggingface.co/datasets/mcp-course/certificates/resolve/main/certificates/guiziweb/2025-10-07.png">MCP Course (Fundamentals + Unit 3: Automation in Production)</a></td></tr>
+  <tr><td><b>Site</b></td><td><a href="https://camilleislasse.github.io">camilleislasse.github.io</a> : CV, blog, certifications</td></tr>
   <tr><td><b>LinkedIn</b></td><td><a href="https://www.linkedin.com/in/camilleislasse/">camilleislasse</a></td></tr>
   <tr><td><b>CV</b></td><td><a href="https://github.com/camilleislasse/camilleislasse/raw/main/assets/cv-camille-islasse.pdf">Télécharger</a></td></tr>
 </table>
