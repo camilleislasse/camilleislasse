@@ -11,7 +11,7 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 - [feat: claude-dispatch workflow (guiziwebbot)](https://github.com/Guiziweb/.github/pull/3) on **Guiziweb/.github** (merged)
 - [chore: drop the Cursor marketplace mirror](https://github.com/Guiziweb/guiziweb-plugins/pull/28) on **Guiziweb/guiziweb-plugins** (merged)
 - [chore: move claude-hud to its own repository](https://github.com/Guiziweb/guiziweb-plugins/pull/27) on **Guiziweb/guiziweb-plugins** (merged)
-- [[AdminBundle] Dark mode follow-up fixes](https://github.com/Sylius/Sylius/pull/19163) on **Sylius/Sylius** (open)
+- [[AdminBundle] Dark mode follow-up fixes](https://github.com/Sylius/Sylius/pull/19163) on **Sylius/Sylius** (merged)
 - [ci: grant id-token to the claude-dispatch caller](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/46) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [fix(guiziweb-bot): single-owner labels in fix-issue and revise-pr](https://github.com/Guiziweb/guiziweb-plugins/pull/26) on **Guiziweb/guiziweb-plugins** (merged)
 - [feat: add devcontainer + Playwright MCP](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/43) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
