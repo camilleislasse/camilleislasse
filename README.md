@@ -7,6 +7,9 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
+- [Drop the unused Panther extension](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/51) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
+- [Reject what the schema never offered](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/50) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
+- [Build the test application with the shared Sylius action](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/49) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [chore: move guiziweb-bot to Guiziweb/.github](https://github.com/Guiziweb/guiziweb-plugins/pull/29) on **Guiziweb/guiziweb-plugins** (merged)
 - [feat: claude-dispatch workflow (guiziwebbot)](https://github.com/Guiziweb/.github/pull/3) on **Guiziweb/.github** (merged)
 - [chore: drop the Cursor marketplace mirror](https://github.com/Guiziweb/guiziweb-plugins/pull/28) on **Guiziweb/guiziweb-plugins** (merged)
@@ -19,9 +22,6 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 - [feat(guiziweb-bot): clearer labels (in progress / needs review / blocked)](https://github.com/Guiziweb/guiziweb-plugins/pull/24) on **Guiziweb/guiziweb-plugins** (merged)
 - [feat(guiziweb-bot): bot:review label + reassign PR on handback](https://github.com/Guiziweb/guiziweb-plugins/pull/23) on **Guiziweb/guiziweb-plugins** (merged)
 - [feat: add guiziweb-bot plugin (fix-issue, revise-pr)](https://github.com/Guiziweb/guiziweb-plugins/pull/21) on **Guiziweb/guiziweb-plugins** (merged)
-- [ci: add claude-dispatch stub](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/39) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [chore: remove unused bootstrap pipeline](https://github.com/Guiziweb/.github/pull/2) on **Guiziweb/.github** (merged)
-- [feat: distribute sylius plugins via the Cursor marketplace](https://github.com/Guiziweb/guiziweb-plugins/pull/19) on **Guiziweb/guiziweb-plugins** (merged)
 
 ### Connect
 
