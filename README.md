@@ -7,6 +7,7 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
+- [fix(bootstrap-admin-ui): grid filters header hover in dark mode](https://github.com/Sylius/Stack/pull/389) on **Sylius/Stack** (open)
 - [fix: repair the invalid dependabot configuration](https://github.com/Guiziweb/GuiziwebSyliusTokenPlugin/pull/3) on **Guiziweb/GuiziwebSyliusTokenPlugin** (merged)
 - [chore: drop the dead dependabot ignore entries](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/52) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [Drop the unused Panther extension](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/51) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
@@ -21,7 +22,6 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 - [fix(guiziweb-bot): single-owner labels in fix-issue and revise-pr](https://github.com/Guiziweb/guiziweb-plugins/pull/26) on **Guiziweb/guiziweb-plugins** (merged)
 - [feat: add devcontainer + Playwright MCP](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/43) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [fix(guiziweb-bot): one label at a time (clear the other two on each transition)](https://github.com/Guiziweb/guiziweb-plugins/pull/25) on **Guiziweb/guiziweb-plugins** (merged)
-- [feat(guiziweb-bot): clearer labels (in progress / needs review / blocked)](https://github.com/Guiziweb/guiziweb-plugins/pull/24) on **Guiziweb/guiziweb-plugins** (merged)
 
 ### Connect
 
