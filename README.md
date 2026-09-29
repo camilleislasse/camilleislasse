@@ -7,7 +7,7 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
-- [fix(bootstrap-admin-ui): grid filters header hover in dark mode](https://github.com/Sylius/Stack/pull/389) on **Sylius/Stack** (open)
+- [fix(bootstrap-admin-ui): grid filters header hover in dark mode](https://github.com/Sylius/Stack/pull/389) on **Sylius/Stack** (merged)
 - [fix: repair the invalid dependabot configuration](https://github.com/Guiziweb/GuiziwebSyliusTokenPlugin/pull/3) on **Guiziweb/GuiziwebSyliusTokenPlugin** (merged)
 - [chore: drop the dead dependabot ignore entries](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/52) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [Drop the unused Panther extension](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/51) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
