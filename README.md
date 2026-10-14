@@ -7,6 +7,9 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
+- [[BootstrapAdminUi] Allow choosing the displayed columns of grids](https://github.com/Sylius/Stack/pull/396) on **Sylius/Stack** (open)
+- [[Admin] Allow choosing the displayed columns of grids](https://github.com/Sylius/Sylius/pull/19291) on **Sylius/Sylius** (open)
+- [feat(fields): Allow hiding fields by default and overriding their visibility per request](https://github.com/Sylius/SyliusGridBundle/pull/508) on **Sylius/SyliusGridBundle** (open)
 - [fix(bootstrap-admin-ui): grid filters header hover in dark mode](https://github.com/Sylius/Stack/pull/389) on **Sylius/Stack** (merged)
 - [fix: repair the invalid dependabot configuration](https://github.com/Guiziweb/GuiziwebSyliusTokenPlugin/pull/3) on **Guiziweb/GuiziwebSyliusTokenPlugin** (merged)
 - [chore: drop the dead dependabot ignore entries](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/52) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
@@ -19,9 +22,6 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 - [chore: move claude-hud to its own repository](https://github.com/Guiziweb/guiziweb-plugins/pull/27) on **Guiziweb/guiziweb-plugins** (merged)
 - [[AdminBundle] Dark mode follow-up fixes](https://github.com/Sylius/Sylius/pull/19163) on **Sylius/Sylius** (merged)
 - [ci: grant id-token to the claude-dispatch caller](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/46) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [fix(guiziweb-bot): single-owner labels in fix-issue and revise-pr](https://github.com/Guiziweb/guiziweb-plugins/pull/26) on **Guiziweb/guiziweb-plugins** (merged)
-- [feat: add devcontainer + Playwright MCP](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/43) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [fix(guiziweb-bot): one label at a time (clear the other two on each transition)](https://github.com/Guiziweb/guiziweb-plugins/pull/25) on **Guiziweb/guiziweb-plugins** (merged)
 
 ### Connect
 
