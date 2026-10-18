@@ -7,6 +7,10 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
+- [fix: link each starrer in a grouped notification to their profile](https://github.com/nunomaduro/dev-null.sh/pull/353) on **nunomaduro/dev-null.sh** (merged)
+- [feat: add image attachments to CLI commits](https://github.com/nunomaduro/dev-null.sh/pull/339) on **nunomaduro/dev-null.sh** (merged)
+- [chore: remove max payload achievement](https://github.com/nunomaduro/dev-null.sh/pull/331) on **nunomaduro/dev-null.sh** (merged)
+- [fix: update stale 280-character limit to 4,000](https://github.com/nunomaduro/dev-null.sh/pull/323) on **nunomaduro/dev-null.sh** (merged)
 - [[BootstrapAdminUi] Allow choosing the displayed columns of grids](https://github.com/Sylius/Stack/pull/396) on **Sylius/Stack** (open)
 - [[Admin] Allow choosing the displayed columns of grids](https://github.com/Sylius/Sylius/pull/19291) on **Sylius/Sylius** (open)
 - [feat(fields): Allow hiding fields by default and overriding their visibility per request](https://github.com/Sylius/SyliusGridBundle/pull/508) on **Sylius/SyliusGridBundle** (open)
@@ -18,10 +22,6 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 - [Build the test application with the shared Sylius action](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/49) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [chore: move guiziweb-bot to Guiziweb/.github](https://github.com/Guiziweb/guiziweb-plugins/pull/29) on **Guiziweb/guiziweb-plugins** (merged)
 - [feat: claude-dispatch workflow (guiziwebbot)](https://github.com/Guiziweb/.github/pull/3) on **Guiziweb/.github** (merged)
-- [chore: drop the Cursor marketplace mirror](https://github.com/Guiziweb/guiziweb-plugins/pull/28) on **Guiziweb/guiziweb-plugins** (merged)
-- [chore: move claude-hud to its own repository](https://github.com/Guiziweb/guiziweb-plugins/pull/27) on **Guiziweb/guiziweb-plugins** (merged)
-- [[AdminBundle] Dark mode follow-up fixes](https://github.com/Sylius/Sylius/pull/19163) on **Sylius/Sylius** (merged)
-- [ci: grant id-token to the claude-dispatch caller](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/46) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 
 ### Connect
 
