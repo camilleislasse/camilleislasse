@@ -7,6 +7,10 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
+- [feat: build the contributors list on /about from GitHub](https://github.com/nunomaduro/dev-null.sh/pull/488) on **nunomaduro/dev-null.sh** (open)
+- [feat: link the URLs in a profile bio](https://github.com/nunomaduro/dev-null.sh/pull/463) on **nunomaduro/dev-null.sh** (open)
+- [fix: require 50 characters for issue commands](https://github.com/nunomaduro/dev-null.sh/pull/458) on **nunomaduro/dev-null.sh** (open)
+- [feat: read a thread an author writes as replies to themselves in order](https://github.com/nunomaduro/dev-null.sh/pull/449) on **nunomaduro/dev-null.sh** (merged)
 - [fix: link each starrer in a grouped notification to their profile](https://github.com/nunomaduro/dev-null.sh/pull/353) on **nunomaduro/dev-null.sh** (merged)
 - [feat: add image attachments to CLI commits](https://github.com/nunomaduro/dev-null.sh/pull/339) on **nunomaduro/dev-null.sh** (merged)
 - [chore: remove max payload achievement](https://github.com/nunomaduro/dev-null.sh/pull/331) on **nunomaduro/dev-null.sh** (merged)
@@ -18,10 +22,6 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 - [fix: repair the invalid dependabot configuration](https://github.com/Guiziweb/GuiziwebSyliusTokenPlugin/pull/3) on **Guiziweb/GuiziwebSyliusTokenPlugin** (merged)
 - [chore: drop the dead dependabot ignore entries](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/52) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 - [Drop the unused Panther extension](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/51) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [Reject what the schema never offered](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/50) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [Build the test application with the shared Sylius action](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/49) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [chore: move guiziweb-bot to Guiziweb/.github](https://github.com/Guiziweb/guiziweb-plugins/pull/29) on **Guiziweb/guiziweb-plugins** (merged)
-- [feat: claude-dispatch workflow (guiziwebbot)](https://github.com/Guiziweb/.github/pull/3) on **Guiziweb/.github** (merged)
 
 ### Connect
 
