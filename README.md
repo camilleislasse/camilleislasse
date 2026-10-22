@@ -7,14 +7,14 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
-- [feat: build the contributors list on /about from GitHub](https://github.com/nunomaduro/dev-null.sh/pull/488) on **nunomaduro/dev-null.sh** (open)
-- [feat: link the URLs in a profile bio](https://github.com/nunomaduro/dev-null.sh/pull/463) on **nunomaduro/dev-null.sh** (open)
-- [fix: require 50 characters for issue commands](https://github.com/nunomaduro/dev-null.sh/pull/458) on **nunomaduro/dev-null.sh** (open)
-- [feat: read a thread an author writes as replies to themselves in order](https://github.com/nunomaduro/dev-null.sh/pull/449) on **nunomaduro/dev-null.sh** (merged)
-- [fix: link each starrer in a grouped notification to their profile](https://github.com/nunomaduro/dev-null.sh/pull/353) on **nunomaduro/dev-null.sh** (merged)
-- [feat: add image attachments to CLI commits](https://github.com/nunomaduro/dev-null.sh/pull/339) on **nunomaduro/dev-null.sh** (merged)
-- [chore: remove max payload achievement](https://github.com/nunomaduro/dev-null.sh/pull/331) on **nunomaduro/dev-null.sh** (merged)
-- [fix: update stale 280-character limit to 4,000](https://github.com/nunomaduro/dev-null.sh/pull/323) on **nunomaduro/dev-null.sh** (merged)
+- [feat: build the contributors list on /about from GitHub](https://github.com/dev-null-sh/dev-null.sh/pull/488) on **dev-null-sh/dev-null.sh** (open)
+- [feat: link the URLs in a profile bio](https://github.com/dev-null-sh/dev-null.sh/pull/463) on **dev-null-sh/dev-null.sh** (open)
+- [fix: require 50 characters for issue commands](https://github.com/dev-null-sh/dev-null.sh/pull/458) on **dev-null-sh/dev-null.sh** (open)
+- [feat: read a thread an author writes as replies to themselves in order](https://github.com/dev-null-sh/dev-null.sh/pull/449) on **dev-null-sh/dev-null.sh** (merged)
+- [fix: link each starrer in a grouped notification to their profile](https://github.com/dev-null-sh/dev-null.sh/pull/353) on **dev-null-sh/dev-null.sh** (merged)
+- [feat: add image attachments to CLI commits](https://github.com/dev-null-sh/dev-null.sh/pull/339) on **dev-null-sh/dev-null.sh** (merged)
+- [chore: remove max payload achievement](https://github.com/dev-null-sh/dev-null.sh/pull/331) on **dev-null-sh/dev-null.sh** (merged)
+- [fix: update stale 280-character limit to 4,000](https://github.com/dev-null-sh/dev-null.sh/pull/323) on **dev-null-sh/dev-null.sh** (merged)
 - [[BootstrapAdminUi] Allow choosing the displayed columns of grids](https://github.com/Sylius/Stack/pull/396) on **Sylius/Stack** (open)
 - [[Admin] Allow choosing the displayed columns of grids](https://github.com/Sylius/Sylius/pull/19291) on **Sylius/Sylius** (open)
 - [feat(fields): Allow hiding fields by default and overriding their visibility per request](https://github.com/Sylius/SyliusGridBundle/pull/508) on **Sylius/SyliusGridBundle** (open)
