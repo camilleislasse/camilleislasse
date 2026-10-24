@@ -7,7 +7,7 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
-- [feat: build the contributors list on /about from GitHub](https://github.com/dev-null-sh/dev-null.sh/pull/488) on **dev-null-sh/dev-null.sh** (open)
+- [feat: build the contributors list on /about from GitHub](https://github.com/dev-null-sh/dev-null.sh/pull/488) on **dev-null-sh/dev-null.sh** (merged)
 - [feat: link the URLs in a profile bio](https://github.com/dev-null-sh/dev-null.sh/pull/463) on **dev-null-sh/dev-null.sh** (open)
 - [fix: require 50 characters for issue commands](https://github.com/dev-null-sh/dev-null.sh/pull/458) on **dev-null-sh/dev-null.sh** (open)
 - [feat: read a thread an author writes as replies to themselves in order](https://github.com/dev-null-sh/dev-null.sh/pull/449) on **dev-null-sh/dev-null.sh** (merged)
