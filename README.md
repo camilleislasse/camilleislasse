@@ -28,5 +28,5 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 <table>
   <tr><td><b>Site</b></td><td><a href="https://camilleislasse.github.io">camilleislasse.github.io</a> : CV, blog, certifications</td></tr>
   <tr><td><b>LinkedIn</b></td><td><a href="https://www.linkedin.com/in/camilleislasse/">camilleislasse</a></td></tr>
-  <tr><td><b>CV</b></td><td><a href="https://github.com/camilleislasse/camilleislasse/raw/main/assets/cv-camille-islasse.pdf">Télécharger</a></td></tr>
+  <tr><td><b>CV</b></td><td><a href="https://camilleislasse.github.io/cv-camille-islasse.pdf">Télécharger</a></td></tr>
 </table>
