@@ -7,6 +7,9 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
+- [fix(cv): describe the actual plugin work from merged PRs](https://github.com/camilleislasse/camilleislasse.github.io/pull/3) on **camilleislasse/camilleislasse.github.io** (merged)
+- [feat(cv): link the CV PDF from the homepage](https://github.com/camilleislasse/camilleislasse.github.io/pull/2) on **camilleislasse/camilleislasse.github.io** (merged)
+- [feat(cv): printable CV page and automated PDF generation](https://github.com/camilleislasse/camilleislasse.github.io/pull/1) on **camilleislasse/camilleislasse.github.io** (merged)
 - [feat: build the contributors list on /about from GitHub](https://github.com/dev-null-sh/dev-null.sh/pull/488) on **dev-null-sh/dev-null.sh** (merged)
 - [feat: link the URLs in a profile bio](https://github.com/dev-null-sh/dev-null.sh/pull/463) on **dev-null-sh/dev-null.sh** (open)
 - [fix: require 50 characters for issue commands](https://github.com/dev-null-sh/dev-null.sh/pull/458) on **dev-null-sh/dev-null.sh** (open)
@@ -19,9 +22,6 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 - [[Admin] Allow choosing the displayed columns of grids](https://github.com/Sylius/Sylius/pull/19291) on **Sylius/Sylius** (open)
 - [feat(fields): Allow hiding fields by default and overriding their visibility per request](https://github.com/Sylius/SyliusGridBundle/pull/508) on **Sylius/SyliusGridBundle** (open)
 - [fix(bootstrap-admin-ui): grid filters header hover in dark mode](https://github.com/Sylius/Stack/pull/389) on **Sylius/Stack** (merged)
-- [fix: repair the invalid dependabot configuration](https://github.com/Guiziweb/GuiziwebSyliusTokenPlugin/pull/3) on **Guiziweb/GuiziwebSyliusTokenPlugin** (merged)
-- [chore: drop the dead dependabot ignore entries](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/52) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
-- [Drop the unused Panther extension](https://github.com/Guiziweb/GuiziwebSyliusGridAssistantPlugin/pull/51) on **Guiziweb/GuiziwebSyliusGridAssistantPlugin** (merged)
 
 ### Connect
 
