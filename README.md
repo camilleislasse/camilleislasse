@@ -7,6 +7,9 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
+- [ci: add PR checks with Lighthouse](https://github.com/camilleislasse/camilleislasse.github.io/pull/6) on **camilleislasse/camilleislasse.github.io** (open)
+- [feat(cv): add the Sylius Key Contributor nomination](https://github.com/camilleislasse/camilleislasse.github.io/pull/5) on **camilleislasse/camilleislasse.github.io** (merged)
+- [feat(home): rework the homepage layout](https://github.com/camilleislasse/camilleislasse.github.io/pull/4) on **camilleislasse/camilleislasse.github.io** (merged)
 - [fix(cv): describe the actual plugin work from merged PRs](https://github.com/camilleislasse/camilleislasse.github.io/pull/3) on **camilleislasse/camilleislasse.github.io** (merged)
 - [feat(cv): link the CV PDF from the homepage](https://github.com/camilleislasse/camilleislasse.github.io/pull/2) on **camilleislasse/camilleislasse.github.io** (merged)
 - [feat(cv): printable CV page and automated PDF generation](https://github.com/camilleislasse/camilleislasse.github.io/pull/1) on **camilleislasse/camilleislasse.github.io** (merged)
@@ -19,9 +22,6 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 - [chore: remove max payload achievement](https://github.com/dev-null-sh/dev-null.sh/pull/331) on **dev-null-sh/dev-null.sh** (merged)
 - [fix: update stale 280-character limit to 4,000](https://github.com/dev-null-sh/dev-null.sh/pull/323) on **dev-null-sh/dev-null.sh** (merged)
 - [[BootstrapAdminUi] Allow choosing the displayed columns of grids](https://github.com/Sylius/Stack/pull/396) on **Sylius/Stack** (open)
-- [[Admin] Allow choosing the displayed columns of grids](https://github.com/Sylius/Sylius/pull/19291) on **Sylius/Sylius** (open)
-- [feat(fields): Allow hiding fields by default and overriding their visibility per request](https://github.com/Sylius/SyliusGridBundle/pull/508) on **Sylius/SyliusGridBundle** (open)
-- [fix(bootstrap-admin-ui): grid filters header hover in dark mode](https://github.com/Sylius/Stack/pull/389) on **Sylius/Stack** (merged)
 
 ### Connect
 
