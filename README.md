@@ -7,6 +7,8 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 
 ### Working on
 
+- [[AdminBundle] Fix ghost secondary buttons hover in dark mode](https://github.com/Sylius/Sylius/pull/19335) on **Sylius/Sylius** (merged)
+- [[BootstrapAdminUi] Fix ghost secondary buttons hover in dark mode](https://github.com/Sylius/Stack/pull/406) on **Sylius/Stack** (merged)
 - [ci: add PR checks with Lighthouse](https://github.com/camilleislasse/camilleislasse.github.io/pull/6) on **camilleislasse/camilleislasse.github.io** (open)
 - [feat(cv): add the Sylius Key Contributor nomination](https://github.com/camilleislasse/camilleislasse.github.io/pull/5) on **camilleislasse/camilleislasse.github.io** (merged)
 - [feat(home): rework the homepage layout](https://github.com/camilleislasse/camilleislasse.github.io/pull/4) on **camilleislasse/camilleislasse.github.io** (merged)
@@ -20,8 +22,6 @@ Sylius & Symfony developer, exploring how AI can change the way we build PHP app
 - [fix: link each starrer in a grouped notification to their profile](https://github.com/dev-null-sh/dev-null.sh/pull/353) on **dev-null-sh/dev-null.sh** (merged)
 - [feat: add image attachments to CLI commits](https://github.com/dev-null-sh/dev-null.sh/pull/339) on **dev-null-sh/dev-null.sh** (merged)
 - [chore: remove max payload achievement](https://github.com/dev-null-sh/dev-null.sh/pull/331) on **dev-null-sh/dev-null.sh** (merged)
-- [fix: update stale 280-character limit to 4,000](https://github.com/dev-null-sh/dev-null.sh/pull/323) on **dev-null-sh/dev-null.sh** (merged)
-- [[BootstrapAdminUi] Allow choosing the displayed columns of grids](https://github.com/Sylius/Stack/pull/396) on **Sylius/Stack** (open)
 
 ### Connect
 
